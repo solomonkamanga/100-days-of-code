@@ -18,10 +18,19 @@
 **Link to work:** [Day 2 - Codecademy](https://twitter.com/Changamire_Musa/status/906812275171962880)
 
 
-### Day 3 Spetember 9, 2017
+### Day 3: September 9, 2017
 
-**Today's Progress:** Did the 5 topics in the HTML Common Elements lesson on [Codecademy](http://www.codecademy.com).
+**Today's Progress:** Did 5 topics in the HTML Common Elements lesson on [Codecademy](http://www.codecademy.com).
 
 **Thoughts:** I really thought I would be finished with the HTML course by now but maybe this steady progress I'm making is for the best. The lessons will probably sink in more and I can be more effective in execution of HTML programming. And I think doing a refresher course on HTML is really going to help me when I start learning BootStrap in earnest.  
 
 **Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/906819658317225984)
+
+
+##Day 4: September 10, 2017
+
+**Today's Progress:** Finished the HTML Common Elements lesson on Codecademy, which means I'm done with the Elements and Structure course.
+
+**Thoughts:** I'm definitely making more progress with this HTML course. And I've realized I'm more effective when I'm in an environment where I can fully concentrate with minimal distractions. This is something I hadn't seriously considered before cause I didn't even consider that my phone could be a serious distraction.
+
+**Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/907074198463447045)
