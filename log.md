@@ -34,3 +34,12 @@
 **Thoughts:** I'm definitely making more progress with this HTML course. And I've realized I'm more effective when I'm in an environment where I can fully concentrate with minimal distractions. This is something I hadn't seriously considered before cause I didn't even consider that my phone could be a serious distraction.
 
 **Link to work:** [Day 4 - Codecademy](https://twitter.com/Changamire_Musa/status/907074198463447045)
+
+
+### Day 5: September 11, 2017
+
+**Today's Progress:** Finished the HTML Tables lesson on Codecademy meaning I'm officially done with the whole **Learn HTML** course.
+
+**Thoughts:** Being done with HTML course means I can now move on to other topics that I also want to do as part of the challenge such as CSS and JavaScript. I'm genuinely happy with what I learnt as part of this HTML course.
+
+**Link to work:** [Day 4 - Codecademy](https://twitter.com/Changamire_Musa/status/907367518242820096)
