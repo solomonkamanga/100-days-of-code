@@ -27,10 +27,10 @@
 **Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/906819658317225984)
 
 
-##Day 4: September 10, 2017
+### Day 4: September 10, 2017
 
 **Today's Progress:** Finished the HTML Common Elements lesson on Codecademy, which means I'm done with the Elements and Structure course.
 
 **Thoughts:** I'm definitely making more progress with this HTML course. And I've realized I'm more effective when I'm in an environment where I can fully concentrate with minimal distractions. This is something I hadn't seriously considered before cause I didn't even consider that my phone could be a serious distraction.
 
-**Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/907074198463447045)
+**Link to work:** [Day 4 - Codecademy](https://twitter.com/Changamire_Musa/status/907074198463447045)
