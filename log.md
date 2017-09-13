@@ -51,4 +51,4 @@
 
 **Thoughts:** Doing Codecademy and FreeCodeCamp exercises within the same hour was slightly mentally exhausting. And I think I'd be better off dedicating a full hour to each platform.
 
-**Link to work:** [Day 6 - Codecademy](https://twitter.com/Changamire_Musa/status/908060419088056322)
+**Link to work:** [Day 6 - Codecademy + FreeCodeCamp](https://twitter.com/Changamire_Musa/status/908060419088056322)
