@@ -43,3 +43,12 @@
 **Thoughts:** Being done with HTML course means I can now move on to other topics that I also want to do as part of the challenge such as CSS and JavaScript. I'm genuinely happy with what I learnt as part of this HTML course.
 
 **Link to work:** [Day 5 - Codecademy](https://twitter.com/Changamire_Musa/status/907367518242820096)
+
+
+### Day 6: September 13, 2017
+
+**Today's Progress:** Spent 30 minutes on Codecademy doing the **Learn CSS: Selectors and Visual Rules** and then I spent another 30 minutes on [FreeCodeCamp](https://www.freecodecamp.org) doing lessons under the **HTML5/CSS** topic.
+
+**Thoughts:** Doing Codecademy and FreeCodeCamp exercises within the same hour was slightly mentally exhausting. And I think I'd be better off dedicating a full hour to each platform.
+
+**Link to work:** [Day 6 - Codecademy](https://twitter.com/Changamire_Musa/status/908060419088056322)
