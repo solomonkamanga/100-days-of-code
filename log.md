@@ -52,3 +52,12 @@
 **Thoughts:** Doing Codecademy and FreeCodeCamp exercises within the same hour was slightly mentally exhausting. And I think I'd be better off dedicating a full hour to each platform.
 
 **Link to work:** [Day 6 - Codecademy + FreeCodeCamp](https://twitter.com/Changamire_Musa/status/908060419088056322)
+
+
+### Day 7: September 14, 2017
+
+**Today's Progress:** Finished the **CSS Setup and Selectors** in the **Learn CSS** course on Codecademy. It was definitely harder than I thought it'd be. Cause I'm actually supposed to know CSS from when I learnt it in university.
+
+**Thoughts:** CSS can be frustrating. I spent about 10-15 minutes trying to figure out how a style is applied to nested elements. I understand the concept better now. But I think I will truly grasp the concept once I've used it a couple of items.
+
+**Link to work:** [Day 7 - Codecademy](https://twitter.com/Changamire_Musa/status/908467850888794114)
