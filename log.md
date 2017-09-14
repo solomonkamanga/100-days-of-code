@@ -60,4 +60,4 @@
 
 **Thoughts:** CSS can be frustrating. I spent about 10-15 minutes trying to figure out how a style is applied to nested elements. I understand the concept better now. But I think I will truly grasp the concept once I've used it a couple of items.
 
-**Link to work:** [Day 7 - Codecademy](https://twitter.com/Changamire_Musa/status/908467850888794114)
+**Link to work:** [Day 7 - Codecademy](https://twitter.com/Changamire_Musa/status/908473347658436608)
