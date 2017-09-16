@@ -56,8 +56,18 @@
 
 ### Day 7: September 14, 2017
 
-**Today's Progress:** Finished the **CSS Setup and Selectors** in the **Learn CSS** course on Codecademy. It was definitely harder than I thought it'd be. Cause I'm actually supposed to know CSS from when I learnt it in university.
+**Today's Progress:** Finished the **CSS Setup and Selectors** interactive lesson in the **Learn CSS** course on Codecademy. It was definitely harder than I thought it'd be. Cause I'm actually supposed to know CSS from when I learnt it in university.
 
 **Thoughts:** CSS can be frustrating. I spent about 10-15 minutes trying to figure out how a style is applied to nested elements. I understand the concept better now. But I think I will truly grasp the concept once I've used it a couple of items.
 
 **Link to work:** [Day 7 - Codecademy](https://twitter.com/Changamire_Musa/status/908473347658436608)
+
+
+### Day 8: September 15, 2017
+
+**Today's Progress:** I'm starting to grasp & retain a lot of what I'm learning in the CSS course on Codecademy. I finished the **Visual Rules** lesson. And I'm now done with **CSS Selectors and Visual Rules** section and moving on to **The Box Model** section. 
+
+**Thoughts:** A lot of the frustration I had yesterday was mostly due to wondering whether or not I would remember and truly be able to implement some of the concepts I was learning cause it seemed like it was quite a lot at one go. But I'm now focusing on just learning the material for now. And then I can put it into practice later when I work on my personal website or other projects.
+
+**Link to work:** [Day 8 - Codecademy](https://twitter.com/Changamire_Musa/status/908859593245298688)
+
