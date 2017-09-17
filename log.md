@@ -78,4 +78,4 @@
 
 **Thoughts:** I'm proud of the progress I'm making not only in regards to CSS but also with web development in general. Based on what I've learnt so far I can create my own CSS file that follows the principles of modern web development design.
 
-**Link to work:** [Day 8 - Codecademy](https://twitter.com/Changamire_Musa/status/909254039560441856)
+**Link to work:** [Day 9 - Codecademy](https://twitter.com/Changamire_Musa/status/909254039560441856)
