@@ -71,3 +71,11 @@
 
 **Link to work:** [Day 8 - Codecademy](https://twitter.com/Changamire_Musa/status/908859593245298688)
 
+
+### Day 9: September 16, 2017
+
+**Today's Progress:** Completed the **The Box Model** and **Changing the Box Model** lessons of the **Learn CSS: The Box Model** course on Codecademy. With what I learnt today in the lesson I could quite possibly create my own CSS file for a website. The CSS file will probably consist of the bare minimum elements.
+
+**Thoughts:** I'm proud of the progress I'm making not only in regards to CSS but also with web development in general. Based on what I've learnt so far I can create my own CSS file that follows the principles of modern web development design.
+
+**Link to work:** [Day 8 - Codecademy](https://twitter.com/Changamire_Musa/status/909254039560441856)
