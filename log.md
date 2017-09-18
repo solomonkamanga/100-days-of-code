@@ -88,3 +88,12 @@
 **Thoughts:** I really think these courses are putting me in a position where I'm able to not only effectively use the concepts when coding but also explain them in layman's terms to a potential client or another software developer. And I had a relatively easier experience doing this particular lesson because I now have a better understanding of the material and I'm genuinely enjoying the experience.
 
 **Link to work:** [Day 10 - Codecademy](https://twitter.com/Changamire_Musa/status/909607061989752832)
+
+
+### Day 11: September 18, 2017
+
+**Today's Progress:** I did the final two lessons in the **Learn CSS** course on [Codecademy](http://www.codecademy.com); **Color** and **Typography**. And as such I'm done with the course and I'll be moving onto **Responsive Design**.
+
+**Thoughts:** I really enjoyed doing the final lessons of the **Learn CSS**. I don't know if it had to do with the fact that I was almost done or the excitement about all the interesting things I was learning about how color and fonts really affect the visual design of the website. I now know that I enjoy using the hexadecimal color system more than the RGB or the named colors. And I'm also quite partial to using sans-serif fonts in my web designs because I feel like they would give my designs a modern aesthetic.
+
+**Link to work:** [Day 11 - Codecademy](https://twitter.com/Changamire_Musa/status/909827305568194560)
