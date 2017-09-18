@@ -79,3 +79,12 @@
 **Thoughts:** I'm proud of the progress I'm making not only in regards to CSS but also with web development in general. Based on what I've learnt so far I can create my own CSS file that follows the principles of modern web development design.
 
 **Link to work:** [Day 9 - Codecademy](https://twitter.com/Changamire_Musa/status/909254039560441856)
+
+
+### Day 10: September 17, 2017
+
+**Today's Progress:** I completed the **Learn CSS: Display and Positioning** lesson on Codecademy. And I'm left with only 2 more lessons before I finish the entire CSS course.
+
+**Thoughts:** I really think these courses are putting me in a position where I'm able to not only effectively use the concepts when coding but also explain them in layman's terms to a potential client or another software developer. And I had a relatively easier experience doing this particular lesson because I now have a better understanding of the material and I'm genuinely enjoying the experience.
+
+**Link to work:** [Day 10 - Codecademy](https://twitter.com/Changamire_Musa/status/909607061989752832)
