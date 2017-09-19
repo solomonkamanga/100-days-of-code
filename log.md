@@ -97,3 +97,12 @@
 **Thoughts:** I really enjoyed doing the final lessons of the **Learn CSS**. I don't know if it had to do with the fact that I was almost done or the excitement about all the interesting things I was learning about how color and fonts really affect the visual design of the website. I now know that I enjoy using the hexadecimal color system more than the RGB or the named colors. And I'm also quite partial to using sans-serif fonts in my web designs because I feel like they would give my designs a modern aesthetic.
 
 **Link to work:** [Day 11 - Codecademy](https://twitter.com/Changamire_Musa/status/909827305568194560)
+
+
+### Day 12: September 19, 2017
+
+**Today's Progress:** Started the **Responsive Design** course on [Codecademy](http://www.codecademy.com) and did the first lesson on **Sizing Elements**.
+
+**Thoughts:** There was a substantial amount of the material in the course that I already knew. But it was good experience revisiting some of the topics and also learning things from a new perspective. The course also outlined several common design patterns used by professionals when doing responsive design.  
+
+**Link to work:** [Day 12 - Codecademy](https://twitter.com/Changamire_Musa/status/910221444721922049)
