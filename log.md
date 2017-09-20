@@ -106,3 +106,12 @@
 **Thoughts:** There was a substantial amount of the material in the course that I already knew. But it was good experience revisiting some of the topics and also learning things from a new perspective. The course also outlined several common design patterns used by professionals when doing responsive design.  
 
 **Link to work:** [Day 12 - Codecademy](https://twitter.com/Changamire_Musa/status/910221444721922049)
+
+
+### Day 13: September 20, 2017
+
+**Today's Progress:** I finished the **Responsive Design** course on [Codecademy](http://www.codecademy.com) by doing the final lesson on **Media Queries**.
+
+**Thoughts:** The course gave me a greater understanding of what it's like to design and develop websites that look great on devices of varying screen sizes, resolution and orientation. I'm now better equipped to start developing responsive websites. All I have to do now to master defining breakpoints for media queries in the CSS.  
+
+**Link to work:** [Day 13 - Codecademy](https://twitter.com/Changamire_Musa/status/910576407327252480)
