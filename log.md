@@ -22,7 +22,7 @@
 
 **Today's Progress:** Did 5 topics in the HTML Common Elements lesson on [Codecademy](http://www.codecademy.com).
 
-**Thoughts:** I really thought I would be finished with the HTML course by now but maybe this steady progress I'm making is for the best. The lessons will probably sink in more and I can be more effective in execution of HTML programming. And I think doing a refresher course on HTML is really going to help me when I start learning BootStrap in earnest.  
+**Thoughts:** I really thought I would be finished with the HTML course by now but maybe this steady progress I'm making is for the best. The lessons will probably sink in more and I can be more effective in execution of HTML programming. And I think doing a refresher course on HTML is really going to help me when I start learning Bootstrap in earnest.  
 
 **Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/906819658317225984)
 
@@ -65,7 +65,7 @@
 
 ### Day 8: September 15, 2017
 
-**Today's Progress:** I'm starting to grasp & retain a lot of what I'm learning in the CSS course on Codecademy. I finished the **Visual Rules** lesson. And I'm now done with **CSS Selectors and Visual Rules** section and moving on to **The Box Model** section. 
+**Today's Progress:** I'm starting to grasp & retain a lot of what I'm learning in the CSS course on Codecademy. I finished the **Visual Rules** lesson. And I'm now done with **CSS Selectors and Visual Rules** section and moving on to **The Box Model** section.
 
 **Thoughts:** A lot of the frustration I had yesterday was mostly due to wondering whether or not I would remember and truly be able to implement some of the concepts I was learning cause it seemed like it was quite a lot at one go. But I'm now focusing on just learning the material for now. And then I can put it into practice later when I work on my personal website or other projects.
 
@@ -124,3 +124,12 @@
 **Thoughts:** I greatly enjoyed the hour I spent on **freeCodeCamp**. I think I'm going to focus on this particular site for now because I want to finish and get the certifications. I believe certifications of that magnitude may be good for my career. I may still do the courses on **Codecademy** from time to time but for now I'll entirely focus my efforts on **freeCodeCamp**.
 
 **Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911072598859030528)
+
+
+### Day 15: September 22, 2017
+
+**Today's Progress:** Finished all **Responsive Design with Bootstrap** exercises on [freeCodeCamp](http://www.freecodecamp.org).
+
+**Thoughts:** The decision I made to dedicate more time to **freeCodeCamp** is paying off. I'm really enjoying the exercises and the format in which they're structured. I especially liked how the **Responsive Design with Bootstrap** exercises further clarified the information I already knew about responsive and Bootstrap.
+
+**Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911372366940397569)
