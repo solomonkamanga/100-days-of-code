@@ -115,3 +115,12 @@
 **Thoughts:** The course gave me a greater understanding of what it's like to design and develop websites that look great on devices of varying screen sizes, resolution and orientation. I'm now better equipped to start developing responsive websites. All I have to do now to master defining breakpoints for media queries in the CSS.  
 
 **Link to work:** [Day 13 - Codecademy](https://twitter.com/Changamire_Musa/status/910576407327252480)
+
+
+### Day 14: September 21, 2017
+
+**Today's Progress:** I did the **HTML/CSS** exercises on [freeCodeCamp](http://www.freecodecamp.org) and I finally finished the course.
+
+**Thoughts:** I greatly enjoyed the hour I spent on **freeCodeCamp**. I think I'm going to focus on this particular site for now because I want to finish and get the certifications. I believe certifications of that magnitude may be good for my career. I may still do the courses on **Codecademy** from time to time but for now I'll entirely focus my efforts on **freeCodeCamp**.
+
+**Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911072598859030528)
