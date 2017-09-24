@@ -133,3 +133,12 @@
 **Thoughts:** The decision I made to dedicate more time to **freeCodeCamp** is paying off. I'm really enjoying the exercises and the format in which they're structured. I especially liked how the **Responsive Design with Bootstrap** exercises further clarified the information I already knew about responsive and Bootstrap.
 
 **Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911372366940397569)
+
+
+### Day 16: September 23, 2017
+
+**Today's Progress:** Did the **jQuery** section on [freeCodeCamp](http://www.freecodecamp.org).
+
+**Thoughts:** I have never used jQuery before and the exercises in this section were an eye opener. The whole experience made me want to learn a whole lot more about JavaScript and jQuery. I just hope I can use some of what I learnt today in the tribute page challenge.
+
+**Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911726290197151746)
