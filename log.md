@@ -151,3 +151,12 @@
 **Thoughts:** I'm beginning to realize that it's going to be harder than I anticipated to implement the design that I had in mind. The website currently looks nothing like the design. But I'm going to keep working on it until it does.
 
 **Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912181411406376961)
+
+
+### Day 18: September 25, 2017
+
+**Today's Progress:** Continued with the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org).
+
+**Thoughts:** Fully immersing myself into the tribute page challenge is teaching me a lot about the things I don't know. And I'm enjoying every minute of it cause it gives me a chance to really improve my skills in whatever concept it is that I don't know. There are times when it gets hard, when the code I've isn't showing the required output. But in those times Google is my friend. Because knowing what error message to research is half the battle when I'm debugging.
+
+**Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912427665033973760)
