@@ -142,3 +142,12 @@
 **Thoughts:** I have never used jQuery before and the exercises in this section were an eye opener. The whole experience made me want to learn a whole lot more about JavaScript and jQuery. I just hope I can use some of what I learnt today in the tribute page challenge.
 
 **Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911726290197151746)
+
+
+### Day 17: September 24, 2017
+
+**Today's Progress:** Started on the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org).
+
+**Thoughts:** I'm beginning to realize that it's going to be harder than I anticipated to implement the design that I had in mind. The website currently looks nothing like the design. But I'm going to keep working on it until it does.
+
+**Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912181411406376961)
