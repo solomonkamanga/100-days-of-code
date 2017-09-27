@@ -160,3 +160,12 @@
 **Thoughts:** Fully immersing myself into the tribute page challenge is teaching me a lot about the things I don't know. And I'm enjoying every minute of it cause it gives me a chance to really improve my skills in whatever concept it is that I don't know. There are times when it gets hard, when the code I've isn't showing the required output. But in those times Google is my friend. Because knowing what error message to research is half the battle when I'm debugging.
 
 **Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912427665033973760)
+
+
+### Day 19: September 26, 2017
+
+**Today's Progress:** Worked on making the website from the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org) a bit more responsive.
+
+**Thoughts:** The responsive design for the webpage isn't coming along the way I would have hoped. But in my efforts I've learned how not to make a responsive design. Hopefully all my efforts won't be to no avail and I'll figure it out soon.
+
+**Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912916810223243265)
