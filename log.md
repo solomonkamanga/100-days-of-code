@@ -169,3 +169,12 @@
 **Thoughts:** The responsive design for the webpage isn't coming along the way I would have hoped. But in my efforts I've learned how not to make a responsive design. Hopefully all my efforts won't be to no avail and I'll figure it out soon.
 
 **Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912916810223243265)
+
+
+### Day 20: September 28, 2017
+
+**Today's Progress:** Continued to try and make the freeCodeCamp tribute page more responsive.
+
+**Thoughts:** I thought I would have to go through design changes in order for the website to be responsive. But what I needed to do was tackle the issue from the perspective of the user and their desired user experience. I started using the developer tools in the Google Chrome web browser. The tools helped me a lot in accurately testing how the user interface would look on several devices.
+
+**Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/913675346209312768)
