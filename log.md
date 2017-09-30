@@ -178,3 +178,12 @@
 **Thoughts:** I thought I would have to go through design changes in order for the website to be responsive. But what I needed to do was tackle the issue from the perspective of the user and their desired user experience. I started using the developer tools in the Google Chrome web browser. The tools helped me a lot in accurately testing how the user interface would look on several devices.
 
 **Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/913675346209312768)
+
+
+### Day 21: September 29, 2017
+
+**Today's Progress:** Started on the CSS media queries for the freeCodeCamp tribute page more responsive.
+
+**Thoughts:** When I change the media queries for the website, some of the elements move out of positon when I test on devices of a lower resolution. And I can't seem to get the main image of the webpage to positioned exactly where I want it to appear. I'll probably have to do more research on CSS media queries to see how I can fix it.
+
+**Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914045450558337024)
