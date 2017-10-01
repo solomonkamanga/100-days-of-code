@@ -173,7 +173,7 @@
 
 ### Day 20: September 28, 2017
 
-**Today's Progress:** Continued to try and make the freeCodeCamp tribute page more responsive.
+**Today's Progress:** Continued to try and make the **freeCodeCamp** tribute page more responsive.
 
 **Thoughts:** I thought I would have to go through design changes in order for the website to be responsive. But what I needed to do was tackle the issue from the perspective of the user and their desired user experience. I started using the developer tools in the Google Chrome web browser. The tools helped me a lot in accurately testing how the user interface would look on several devices.
 
@@ -182,8 +182,17 @@
 
 ### Day 21: September 29, 2017
 
-**Today's Progress:** Started on the CSS media queries for the freeCodeCamp tribute page more responsive.
+**Today's Progress:** Started on the CSS media queries for the **freeCodeCamp** tribute page more responsive.
 
 **Thoughts:** When I change the media queries for the website, some of the elements move out of positon when I test on devices of a lower resolution. And I can't seem to get the main image of the webpage to positioned exactly where I want it to appear. I'll probably have to do more research on CSS media queries to see how I can fix it.
 
 **Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914045450558337024)
+
+
+### Day 22: September 30, 2017
+
+**Today's Progress:** Finally finished the **Build a Tribute Page** challenge from **freeCodeCamp**.
+
+**Thoughts:** Completing this particular challenge took longer than I thought it would. But it was actually better that way because I learnt quite a lot from all the things I did wrong. However, I really want to learn more about responsive design(especially CSS media queries) because I want to get better at it.
+
+**Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914413760160428032)
