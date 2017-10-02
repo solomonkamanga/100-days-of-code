@@ -205,3 +205,12 @@
 **Thoughts:** Completing the **Build a Tribute Page** challenge really helped change my overall perspective on web development. And now I'm approaching problems in this new challenge with a whole new different format and some newly acquired skills. I just hope I can learn as much from this experience as I did from the previous one.
 
 **Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914661276508413952)
+
+
+### Day 24: October 2, 2017
+
+**Today's Progress:** Took a break from the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** to work on an Android app that I've
+
+**Thoughts:** I decided to take a break from the **Build a Personal Portfolio Webpage** challenge since I wasn't exactly full of ideas as to exactly how my interface should look. And I thought a break would allow the creative juices to start flowing. However, the Android code I thought I would take refuge in wasn't particularly agreeable to my plan and before long my error log was full. But I'll do a bit of research for both situations and figure out some solutions.
+
+**Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914950528303603713)
