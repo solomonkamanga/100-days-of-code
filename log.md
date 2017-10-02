@@ -196,3 +196,12 @@
 **Thoughts:** Completing this particular challenge took longer than I thought it would. But it was actually better that way because I learnt quite a lot from all the things I did wrong. However, I really want to learn more about responsive design(especially CSS media queries) because I want to get better at it.
 
 **Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914413760160428032)
+
+
+### Day 23: October 1, 2017
+
+**Today's Progress:** Started on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** Completing the **Build a Tribute Page** challenge really helped change my overall perspective on web development. And now I'm approaching problems in this new challenge with a whole new different format and some newly acquired skills. I just hope I can learn as much from this experience as I did from the previous one.
+
+**Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914661276508413952)
