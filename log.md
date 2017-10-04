@@ -214,3 +214,12 @@
 **Thoughts:** I decided to take a break from the **Build a Personal Portfolio Webpage** challenge since I wasn't exactly full of ideas as to exactly how my interface should look. And I thought a break would allow the creative juices to start flowing. However, the Android code I thought I would take refuge in wasn't particularly agreeable to my plan and before long my error log was full. But I'll do a bit of research for both situations and figure out some solutions.
 
 **Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914950528303603713)
+
+
+### Day 25: October 3, 2017
+
+**Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. I mostly did research on some of the design ideas I had. And I also tried to wireframe these ideas.
+
+**Thoughts:** Wireframing design ideas is an important aspect of any design process but I don't do it as much as I should. And I believe this leads to the final design of an application or website not living up to my initial design expectations. I would probably save myself a lot of trouble if I had design wireframes I can intermittently refer to when I need to clarify my designs during the development process.
+
+**Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/915400203112517633)
