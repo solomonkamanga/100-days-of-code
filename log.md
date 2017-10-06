@@ -223,3 +223,12 @@
 **Thoughts:** Wireframing design ideas is an important aspect of any design process but I don't do it as much as I should. And I believe this leads to the final design of an application or website not living up to my initial design expectations. I would probably save myself a lot of trouble if I had design wireframes I can intermittently refer to when I need to clarify my designs during the development process.
 
 **Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/915400203112517633)
+
+
+### Day 26: October 5, 2017
+
+**Today's Progress:** Continued working on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** by wireframing more of the ideas I had.
+
+**Thoughts:** I think I now have greater understanding of how I want the website to look and it's functionality. I'm happy with the design that I now have. It probably needs some tweaks here and there but for now it will have to do. And I can now get back to writing actual code.
+
+**Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916092060041732097)
