@@ -232,3 +232,12 @@
 **Thoughts:** I think I now have greater understanding of how I want the website to look and it's functionality. I'm happy with the design that I now have. It probably needs some tweaks here and there but for now it will have to do. And I can now get back to writing actual code.
 
 **Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916092060041732097)
+
+
+### Day 27: October 6, 2017
+
+**Today's Progress:** Started actively writing code for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** based on the design that wireframed.
+
+**Thoughts:** I think having a wireframe of the design has really helped with my productivity. Because I now have a plan for everything that I want to do and an idea of how my design will eventually look. And it is also a great reference to remind myself of the many aspects of the design.
+
+**Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916558323473936384)
