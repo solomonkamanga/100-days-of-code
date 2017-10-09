@@ -241,3 +241,12 @@
 **Thoughts:** I think having a wireframe of the design has really helped with my productivity. Because I now have a plan for everything that I want to do and an idea of how my design will eventually look. And it is also a great reference to remind myself of the many aspects of the design.
 
 **Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916558323473936384)
+
+
+### Day 28: October 8, 2017
+
+**Today's Progress:** Continued working on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** The portfolio page is coming along quite well. It stills looks far from the design I had in mind. However, I know everything that I have to fix and have an idea of how I'm going to fix it. There is a structure and a definite plan to how I'm doing everything. I want to continue to be this organized when developing projects in the future.
+
+**Link to work:** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917259348065308672)
