@@ -250,3 +250,12 @@
 **Thoughts:** The portfolio page is coming along quite well. It stills looks far from the design I had in mind. However, I know everything that I have to fix and have an idea of how I'm going to fix it. There is a structure and a definite plan to how I'm doing everything. I want to continue to be this organized when developing projects in the future.
 
 **Link to work:** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917259348065308672)
+
+
+### Day 29: October 9, 2017
+
+**Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. I definitely had more errors than progress today.
+
+**Thoughts:** The current format I'm following for development is good for identifying bugs early on before they become a problem later. I'll probably still have errors at the end of the process but they'll hopefully be a reduced number. I think as soon as I can get these errors under control I'll hopefully be able to finalize work on this challenge.
+
+**Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917561398170914817)
