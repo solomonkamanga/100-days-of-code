@@ -259,3 +259,12 @@
 **Thoughts:** The current format I'm following for development is good for identifying bugs early on before they become a problem later. I'll probably still have errors at the end of the process but they'll hopefully be a reduced number. I think as soon as I can get these errors under control I'll hopefully be able to finalize work on this challenge.
 
 **Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917561398170914817)
+
+
+### Day 30: October 10, 2017
+
+**Today's Progress:** Continued with the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. 
+
+**Thoughts:** I had a bit of progress in terms of dealing with errors I had the previous day. At this rate, even if I factor in a couple more error filled days I should be done with the website soon. One problem I realized in today is that I sometimes dwell on code that's not working instead of moving on and then coming back to it with new perspective. It's probably one of the greater hindrances to my productivity.
+
+**Link to work:** [Day 30 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917950488292790272)
