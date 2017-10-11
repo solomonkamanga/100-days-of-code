@@ -263,8 +263,17 @@
 
 ### Day 30: October 10, 2017
 
-**Today's Progress:** Continued with the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. 
+**Today's Progress:** Continued with the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
 **Thoughts:** I had a bit of progress in terms of dealing with errors I had the previous day. At this rate, even if I factor in a couple more error filled days I should be done with the website soon. One problem I realized in today is that I sometimes dwell on code that's not working instead of moving on and then coming back to it with new perspective. It's probably one of the greater hindrances to my productivity.
 
 **Link to work:** [Day 30 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917950488292790272)
+
+
+### Day 31: October 11, 2017
+
+**Today's Progress:** **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** Had a productive coding session today. My portfolio has about 7 sections and I have done about 3 so far. I am making steady progress. And I also discovered the Line Awesome icon font. I think the icons would look really great on the website.
+
+**Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918241335836069896)
