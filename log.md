@@ -285,4 +285,4 @@
 
 **Thoughts:** I didn't necessarily code but I researched animations that I wanted to use in certain aspects of the website. I could've easily done this at the very end of my development process but I wanted to know beforehand so that I can layout my content accordingly. And I definitely found some amazing examples of how I can give my website an enhanced aesthetic appeal while also improving the user experience.
 
-**Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918708270281367555)
+**Link to work:** [Day 32 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918708270281367555)
