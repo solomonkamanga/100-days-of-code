@@ -277,3 +277,12 @@
 **Thoughts:** Had a productive coding session today. My portfolio has about 7 sections and I have done about 3 so far. I am making steady progress. And I also discovered the Line Awesome icon font. I think the icons would look really great on the website.
 
 **Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918241335836069896)
+
+
+### Day 32: October 12, 2017
+
+**Today's Progress:** Researched and tried a couple of animations that I wanted to use in the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** I didn't necessarily code but I researched animations that I wanted to use in certain aspects of the website. I could've easily done this at the very end of my development process but I wanted to know beforehand so that I can layout my content accordingly. And I definitely found some amazing examples of how I can give my website an enhanced aesthetic appeal while also improving the user experience.
+
+**Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918708270281367555)
