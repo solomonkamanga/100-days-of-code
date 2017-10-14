@@ -286,3 +286,12 @@
 **Thoughts:** I didn't necessarily code but I researched animations that I wanted to use in certain aspects of the website. I could've easily done this at the very end of my development process but I wanted to know beforehand so that I can layout my content accordingly. And I definitely found some amazing examples of how I can give my website an enhanced aesthetic appeal while also improving the user experience.
 
 **Link to work:** [Day 32 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918708270281367555)
+
+
+### Day 33: October 13, 2017
+
+**Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** Spent most of my coding session working on the skills and portfolio section of the website. But I really think it's time I finished with this particular challenge. I want the portfolio page to be perfect and I think that's a bit of a hindrance to my productivity. Maybe I should have a deadline so that I can work with a greater sense of urgency.
+
+**Link to work:** [Day 33 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919113379041677313)
