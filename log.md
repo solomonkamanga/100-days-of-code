@@ -295,3 +295,12 @@
 **Thoughts:** Spent most of my coding session working on the skills and portfolio section of the website. But I really think it's time I finished with this particular challenge. I want the portfolio page to be perfect and I think that's a bit of a hindrance to my productivity. Maybe I should have a deadline so that I can work with a greater sense of urgency.
 
 **Link to work:** [Day 33 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919113379041677313)
+
+
+### Day 34: October 14, 2017
+
+**Today's Progress:** Did some work on my portfolio page; primarily the portfolio section.
+
+**Thoughts:** Continued working on the portfolio section of the portfolio page. The structure I wanted to implemented for the modal boxes wasn't working so I had to do research on how I could do it. I really thought I had designed the structure as simple as possible but judging by errors I'm getting I must be missing something.
+
+**Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919433546577711104)
