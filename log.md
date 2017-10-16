@@ -304,3 +304,11 @@
 **Thoughts:** Continued working on the portfolio section of the portfolio page. The structure I wanted to implemented for the modal boxes wasn't working so I had to do research on how I could do it. I really thought I had designed the structure as simple as possible but judging by errors I'm getting I must be missing something.
 
 **Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919433546577711104)
+
+
+### Day 35: October 15, 2017
+
+**Today's Progress:** Continued working on the portfolio section of the website for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** I almost done implementing the structure I want for the modal boxes in the portfolio section. And I also found a structure for the portfolio section that classifies the projects into different categories; I would like to use this structurein in my webpage.
+**Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919822961514819584)
