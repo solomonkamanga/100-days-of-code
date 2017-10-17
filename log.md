@@ -313,3 +313,12 @@
 **Thoughts:** I almost done implementing the structure I want for the modal boxes in the portfolio section. And I also found a structure for the portfolio section that classifies the projects into different categories; I would like to use this structure on my webpage.
 
 **Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919822961514819584)
+
+
+### Day 36: October 16, 2017
+
+**Today's Progress:** Worked on the portfolio and contact section of my website for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
+
+**Thoughts:** Finished implementing the structure for the modal boxes in the portfolio section. And I also started working on the contact section and footer. But I realized at some point I have to work on the typography of the website so that it is consistent throughout.
+
+**Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/920171826474602496)
