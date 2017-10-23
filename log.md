@@ -330,7 +330,7 @@
 
 **Thoughts:** For all intents and purposes I'm done with my portfolio page. I'm just not happy about how I didn't post much about it. But I am happy about the coming soon page that I made. That is the first GitHub repo I have made which isn't associated with a curriculum.
 
-**Link to work:** Day 37 - Day 41 - freeCodeCamp [1st Tweet](https://twitter.com/Changamire_Musa/status/921701168627306496) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/921701682567876608) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/921702924321017856)
+**Link to work:** Day 37 - Day 41 - freeCodeCamp [1st Tweet](https://twitter.com/Changamire_Musa/status/921701168627306496) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/921701682567876608) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/921702924321017856) | [Coming Soon Page Repo](https://github.com/solomonkamanga/coming-soon-page)
 
 ### Day 42: October 22, 2017
 
