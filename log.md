@@ -322,3 +322,20 @@
 **Thoughts:** Finished implementing the structure for the modal boxes in the portfolio section. And I also started working on the contact section and footer. But I realized at some point I have to work on the typography of the website so that it is consistent throughout.
 
 **Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/920171826474602496)
+
+
+### Day 37 - Day 41: October 17, 2017 - October 21, 2017
+
+**Today's Progress:** Finally made some headway in finishing my portfolio page. I'm officially done with all the sections I wanted to have on the website. I just to need to make it look better and also add content. And I also made a coming soon page which is meant to countdown to the launch of my website.
+
+**Thoughts:** For all intents and purposes I'm done with my portfolio page. I'm just not happy about how I didn't post much about it. But I am happy about the coming soon page that I made. That is the first GitHub repo I have made which isn't associated with a curriculum.
+
+**Link to work:** Day 37 - Day 41 - freeCodeCamp [1st Tweet](https://twitter.com/Changamire_Musa/status/921701168627306496) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/921701682567876608) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/921702924321017856)
+
+### Day 42: October 22, 2017
+
+**Today's Progress:** Decided to take a break from the **Build a Personal Portfolio Webpage** challenge because I need to figure out how I can enhance the aesthetic appeal of my website. And I worked on building a PHP/MySQL back end for an Android app I have been working on.
+
+**Thoughts:** The process was slightly more challenging than I had anticipated. I had some errors when I tested the RESTful web services using [Postman(REST client)](https://www.getpostman.com/). But I think I can easily debug most of them and Postman will help a lot in that regard. The work I'm doing for this Android app is an ongoing process and I will probably extend it further during a second round of **#100DaysOfCode**.
+
+**Link to work:** [Day 36 - Android/PHP & MySQL](https://twitter.com/Changamire_Musa/status/922223711784198146)
