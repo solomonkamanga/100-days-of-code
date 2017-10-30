@@ -332,6 +332,7 @@
 
 **Link to work:** Day 37 - Day 41 - freeCodeCamp [1st Tweet](https://twitter.com/Changamire_Musa/status/921701168627306496) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/921701682567876608) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/921702924321017856) | [Coming Soon Page Repo](https://github.com/solomonkamanga/coming-soon-page)
 
+
 ### Day 42: October 22, 2017
 
 **Today's Progress:** Decided to take a break from the **Build a Personal Portfolio Webpage** challenge because I need to figure out how I can enhance the aesthetic appeal of my website. And I worked on building a PHP/MySQL back end for an Android app I have been working on.
@@ -339,3 +340,12 @@
 **Thoughts:** The process was slightly more challenging than I had anticipated. I had some errors when I tested the RESTful web services using [Postman(REST client)](https://www.getpostman.com/). But I think I can easily debug most of them and Postman will help a lot in that regard. The work I'm doing for this Android app is an ongoing process and I will probably extend it further during a second round of **#100DaysOfCode**.
 
 **Link to work:** [Day 36 - Android/PHP & MySQL](https://twitter.com/Changamire_Musa/status/922223711784198146)
+
+
+### Day 43: October 30, 2017
+
+**Today's Progress:** After taking a week long break from the challenge, I decided to get back to it. Spent my session learning about the new features in **Android Studio 3.0**.
+
+**Thoughts:** I took a week long break because I was busy with so much else in my work and personal life. I thought it would be best if I take a break instead of just quitting the challenge. There has been other versions of **Android Studio 3** that were released earlier but I usually wait for the stable version. I believe this the best version for one to get an accurate understanding of the new features in a software.
+
+**Link to work:** [Day 43 - Learning about Android Studio 3.0](https://twitter.com/Changamire_Musa/status/925109516018094080)
