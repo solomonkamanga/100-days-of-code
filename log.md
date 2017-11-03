@@ -358,3 +358,13 @@
 **Thoughts:** Added all the necessary content and fixed the issues that had previously plagued the completion of the assignment. I am quite satisfied with the final design. However, I've already thought of ideas on how I can improve the website in terms on user intuitiveness, aesthetic appeal and general functionality.
 
 **Link to work:** Day 44 - 46 [1st Tweet](https://twitter.com/Changamire_Musa/status/926282059781476353) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/926283150921293824) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/926283903744143360) | [CodePen](https://codepen.io/solomonkamanga/full/RLZgMb/)
+
+
+### Day 47: November 3, 2017
+
+**Today's Progress:** My knowledge of Git isn't as it should be so I took some time off from the actual coding to learn more about it. I took a tutorial from [Code School](https://www.codeschool.com)
+
+**Thoughts:** I learnt quite a substantial amount about Git through the tutorial I took on **Code School**. However, I still have a long way to go before I truly master not only Git but version control in general. My ability to understand and effectively utilize particular version control systems will enhance my software development skills and productivity.
+
+**Link to work:** [Day 47 - Learning Git using TryGit via Code School](https://twitter.com/Changamire_Musa/status/926550192769335297)
+
