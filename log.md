@@ -349,3 +349,12 @@
 **Thoughts:** I took a week long break because I was busy with so much else in my work and personal life. I thought it would be best if I take a break instead of just quitting the challenge. There has been other versions of **Android Studio 3** that were released earlier but I usually wait for the stable version. I believe this the best version for one to get an accurate understanding of the new features in a software.
 
 **Link to work:** [Day 43 - Learning about Android Studio 3.0](https://twitter.com/Changamire_Musa/status/925109516018094080)
+
+
+### Day 44 - 46: October 31, 2017 - November 2, 2017
+
+**Today's Progress:** Finally finished my personal portfolio for [freeCodeCamp](https://www.freecodecamp.com).
+
+**Thoughts:** Added all the necessary content and fixed the issues that had previously plagued the completion of the assignment. I am quite satisfied with the final design. However, I've already thought of ideas on how I can improve the website in terms on user intuitiveness, aesthetic appeal and general functionality.
+
+**Link to work:** Day 44 - 46 [1st Tweet](https://twitter.com/Changamire_Musa/status/926282059781476353) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/926283150921293824) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/926283903744143360) | [CodePen](https://codepen.io/solomonkamanga/full/RLZgMb/)
