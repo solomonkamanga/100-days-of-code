@@ -368,3 +368,12 @@
 
 **Link to work:** [Day 47 - Learning Git using TryGit via Code School](https://twitter.com/Changamire_Musa/status/926550192769335297)
 
+
+### Day 48 - Day 50: November 4, 2017 - November 6, 2017 
+
+**Today's Progress:** Did about half of the challenges in **Basic JavaScript** on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** JavaScript is quite a challenging language to learn but with the way **freeCodeCamp** has structured their content it's much simpler to get everything. The content is concise and very well explained. I actually can't wait to finish the theory challenges and get to the more practical challenges where I have create different projects using JavaScript.
+
+**Link to work:** [Day 48 - Day 50 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/927516264238632961)
+
