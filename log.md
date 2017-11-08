@@ -377,3 +377,12 @@
 
 **Link to work:** [Day 48 - Day 50 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/927516264238632961)
 
+
+### Day 51: November 7, 2017 
+
+**Today's Progress:** Continued doing challenges in the **Basic JavaScript** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** I'm continually making steady progress in the **Basic JavaScript** section on **freeCodeCamp**. However, I'm left with quite a substantial number of challenges before I finish. Hopefully I'll be done before the end of the week so I can continue with other sections of the **Front End Development Certification**.
+
+**Link to work:** [Day 51 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/928104891125465089)
+
