@@ -386,3 +386,12 @@
 
 **Link to work:** [Day 51 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/928104891125465089)
 
+
+### Day 52 - Day 57: November 8, 2017 - November 13, 2017 
+
+**Today's Progress:** Finally completed the challenges in the **Basic JavaScript** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** It was really tough sometimes but at least now I have a better understanding of JavaScript. And I tried as much as possible to solve the challenges with little or no help. However, there are some challenges which I had to use the provided hint to complete but at least I understood the concepts.
+
+**Link to work:** [Day 52 - Day 57 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/930179966779748353)
+
