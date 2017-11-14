@@ -395,3 +395,12 @@
 
 **Link to work:** [Day 52 - Day 57 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/930179966779748353)
 
+
+### Day 58: November 14, 2017 
+
+**Today's Progress:** Spent my coding session on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga). I did all of the challenges in the **Object Oriented & Functional Programming** section. And I also did 2 challenges in the **Basic Algorithm Scripting** section.
+
+**Thoughts:** I'm really happy about the progress I made today; because I had set a goal to finish the **Object Oriented & Functional Programming** section and I achieved it. Starting the **Basic Algorithm Scripting** section was a great way to end my coding session because it gave me a opportunity to put into practice some of the concepts I learnt today. This will ensure that I fully understand these concepts.
+
+**Link to work:** [Day 58 - Object Oriented & Functional Programming | Basic Algorithm Scripting -> freeCodeCamp](https://twitter.com/Changamire_Musa/status/930552592572219392)
+
