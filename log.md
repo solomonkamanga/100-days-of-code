@@ -404,3 +404,12 @@
 
 **Link to work:** [Day 58 - Object Oriented & Functional Programming | Basic Algorithm Scripting -> freeCodeCamp](https://twitter.com/Changamire_Musa/status/930552592572219392)
 
+
+### Day 59: November 15, 2017 
+
+**Today's Progress:** Continued working on challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** I had some difficulty scripting the algorithms. But hopefully I'll get better as I progress.
+
+**Link to work:** [Day 59 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931051142821416960)
+
