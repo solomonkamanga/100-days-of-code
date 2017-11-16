@@ -413,3 +413,12 @@
 
 **Link to work:** [Day 59 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931051142821416960)
 
+
+### Day 60: November 16, 2017 
+
+**Today's Progress:** Spent yet another coding session working on challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** Solving the algorithm challenges has given me a newfound confidence in my ability to use JavaScript effectively. It seems less daunting. I think that's one of the things I've realized through doing #100DaysOfCodes; not everything is as difficult as I had initially thought.
+
+**Link to work:** [Day 60 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931282233981272066)
+
