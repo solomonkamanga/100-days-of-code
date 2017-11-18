@@ -422,3 +422,12 @@
 
 **Link to work:** [Day 60 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931282233981272066)
 
+
+### Day 61 - Day 62: November 17, 2017 - November 18, 2017 
+
+**Today's Progress:** Completed the challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** The whole experience of completing the challenges of the **Basic Algorithm Scripting** section was quite insightful. It gave me a opportunity to understand how to construct programming logic that eventually turns into algorithms and code. Hopefully if I am able to maintain the current pace and dedication I have shown thus far I will attain the Front End Development certification from freeCodeCamp quite soon.
+
+**Link to work:** [Day 61 - Day 62 -> Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931736998087454720)
+
