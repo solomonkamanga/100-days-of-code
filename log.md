@@ -431,3 +431,12 @@
 
 **Link to work:** [Day 61 - Day 62 -> Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931736998087454720)
 
+
+### Day 63: November 19, 2017 
+
+**Today's Progress:** Completed the challenges in the **JSON APIs and AJAX** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** It was a relatively easier section comprised mostly of challenges that are primers for the **Intermediate Front End Development Projects**. I actually might have to use some of the concepts I learnt in this section to make my portfolio website dynamic.
+
+**Link to work:** [Day 63 - JSON APIs and AJAX - freeCodeCamp](https://twitter.com/Changamire_Musa/status/932368637180116992)
+
