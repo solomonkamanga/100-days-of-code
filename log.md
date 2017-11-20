@@ -440,3 +440,11 @@
 
 **Link to work:** [Day 63 - JSON APIs and AJAX - freeCodeCamp](https://twitter.com/Changamire_Musa/status/932368637180116992)
 
+
+### Day 64: November 20, 2017 
+
+**Today's Progress:** Started on the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
+
+**Thoughts:** This is the first time I will be using the new concepts I have learnt about JavaScript. I am really excited about putting these newly acquired skills to the test. So far I have started on the overall design of the application. Hopefully tomorrow I'll be finishing up on the design so that I can start implementing and testing the logic.
+**Link to work:** [Day 64 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/932732016168243202)
+
