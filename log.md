@@ -458,3 +458,11 @@
 
 **Link to work:** [Day 65 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/933139121891033089)
 
+
+### Day 66: November 22, 2017 
+
+**Today's Progress:** I'm almost done with the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com). But unfortunately not all the application's functionalities are working.
+
+**Thoughts:** It's not loading the quotes from the API. I don't particularly know why this error is occurring but I have some ideas. I'll have to do some extensive debugging in my next coding session in order to fix the issue. 
+
+**Link to work:** [Day 66 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/933491456475648000)
