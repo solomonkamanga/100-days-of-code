@@ -466,3 +466,12 @@
 **Thoughts:** It's not loading the quotes from the API. I don't particularly know why this error is occurring but I have some ideas. I'll have to do some extensive debugging in my next coding session in order to fix the issue. 
 
 **Link to work:** [Day 66 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/933491456475648000)
+
+
+### Day 67 - Day 70: November 23, 2017 -  November 26, 2017
+
+**Today's Progress:** Finally finished the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com). I managed to fix all the errors that I had previously encountered with the application's functionality. I also revamped the design to make the application look better.
+
+**Thoughts:** The application finally loads quotes from an API. This experience taught quite a lot about retereieving data from APIs. I also learnt a bit about how to debug a website when there seems to be no available error messages. 
+
+**Link to work:** [Day 67 - Day 70 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/934821058447888384)
