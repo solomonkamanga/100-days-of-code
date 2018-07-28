@@ -472,6 +472,15 @@
 
 **Today's Progress:** Finally finished the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com). I managed to fix all the errors that I had previously encountered with the application's functionality. I also revamped the design to make the application look better.
 
-**Thoughts:** The application finally loads quotes from an API. This experience taught quite a lot about retereieving data from APIs. I also learnt a bit about how to debug a website when there seems to be no available error messages. 
+**Thoughts:** The application finally loads quotes from an API. This experience taught quite a lot about retrieving data from APIs. I also learnt a bit about how to debug a website when there seems to be no available error messages. 
 
 **Link to work:** [Day 67 - Day 70 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/934821058447888384)
+
+
+### Day 71: July 27, 2018
+
+**Today's Progress:** After somewhat of a hiatus, I've decided to give #100DaysOfCode another go. Hopefully this time around I'll make it to the finish line. Today I worked mostly on freeCodeCamp. I did the new challenges in the HTML & CSS sections. And I started on the Applied Visual Design section.   
+
+**Thoughts:** I really enjoyed working on #100DaysOfCode again. It felt good getting back to everything, since for the past few months it's been a struggle trying to find time to actually sit down and code outside of work.
+
+**Link to work:** [Day 71 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023026007584976896)
