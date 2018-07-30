@@ -484,3 +484,12 @@
 **Thoughts:** I really enjoyed working on #100DaysOfCode again. It felt good getting back to everything, since for the past few months it's been a struggle trying to find time to actually sit down and code outside of work.
 
 **Link to work:** [Day 71 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023026007584976896)
+
+
+### Day 72 & Day 73: July 28, 2018 - July 29, 2018
+
+**Today's Progress:** Continued working on challenges from the Applied Visual Design section on freeCodeCamp.   
+
+**Thoughts:** This topic allows one to have an appreciation of all the elements that go into designing and ultimately implementing the code that builds a webpage.
+
+**Link to work:** [Day 72 & Day 73 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023733381866168321)
