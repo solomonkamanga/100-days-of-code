@@ -493,3 +493,12 @@
 **Thoughts:** This topic allows one to have an appreciation of all the elements that go into designing and ultimately implementing the code that builds a webpage.
 
 **Link to work:** [Day 72 & Day 73 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023733381866168321)
+
+
+### Day 74: August 2, 2018
+
+**Today's Progress:** Finally completed the Applied Visual Design section on freeCodeCamp. Learnt about how aspects such as typography, color, animation, graphics along with page layout contribute to a good design. This has helped me understand the structure of visual design that fulfills user requirements and still looks great. 
+
+**Thoughts:** I had a couple of days where I really struggled to find time to work on #100DaysOfCode. But I'm not beating myself about that because I actually ending up making time to another contribution. And I also quite enjoyed the Applied Visual Design section because I learnt a lot. Learning about visual design now puts me in a better place to even critique some of the websites I have done in the past to see how I can improve their design.
+
+**Link to work:** [Day 74 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1025138142083522561)
