@@ -502,3 +502,21 @@
 **Thoughts:** I had a couple of days where I really struggled to find time to work on #100DaysOfCode. But I'm not beating myself about that because I actually ending up making time to another contribution. And I also quite enjoyed the Applied Visual Design section because I learnt a lot. Learning about visual design now puts me in a better place to even critique some of the websites I have done in the past to see how I can improve their design.
 
 **Link to work:** [Day 74 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1025138142083522561)
+
+
+### Day 75 - Day 77: August 5, 2018 - August 7, 2018
+
+**Today's Progress:** Completed the Applied Accessibility challenges on freeCodeCamp. It took longer than anticipated because there is a lot I didn't know about accessibility. And such there was lot of googling involved.
+
+**Thoughts:** I took a couple of days off from #100DaysOfCode. I really needed the break. It allowed me to tackle the challenges with great enthusiasm for the whole process. I really need to do research and read more about the topic.
+
+**Link to work:** [Day 75 - Day 77 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027050065528008704)
+
+
+### Day 78: August 8, 2018
+
+**Today's Progress:** Completed the Responsive Web Design Principles & CSS Flexbox challenges on freeCodeCamp.
+
+**Thoughts:** Over the past few days I've come to realize that just doing challenges on freeCodeCamp is not enough to learn about web development. And as such, I have to keep augmenting my learning through either watching tutorials, reading books or building small projects to assess my understanding of the topics.  
+
+**Link to work:** [Day 78 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027383943019094017)
