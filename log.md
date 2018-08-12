@@ -520,3 +520,21 @@
 **Thoughts:** Over the past few days I've come to realize that just doing challenges on freeCodeCamp is not enough to learn about web development. And as such, I have to keep augmenting my learning through either watching tutorials, reading books or building small projects to assess my understanding of the topics.  
 
 **Link to work:** [Day 78 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027383943019094017)
+
+
+### Day 79: August 9, 2018
+
+**Today's Progress:** I finished the CSS Grid challenges on freeCodeCamp.
+
+**Thoughts:** I was really tired but I soldiered on in order to finish the section. The last few topics in the section were a haze because I was so sleepy. In future, I would like to allow myself to rest because it doesn't make sense for me to keep slugging on without fully understanding the material. It will not be beneficial to me in the long run. 
+
+**Link to work:** [Day 79 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027883718923505664)
+
+
+### Day 80 - Day 82: August 10, 2018 - August 12, 2018
+
+**Today's Progress:** I worked on the *Responsive Web Design Projects* from freeCodeCamp. I completed the *Build a Tribute Page* project and started working on the *Build a Survey Form* project.
+
+**Thoughts:** I had initially wanted to do the *Build a Tribute Page* project as a revamp of the tribute page I had previously done in legacy version of freeCodeCamp but then I decided to do a different design. The new design is very minimalistic and quite to the example given by freeCodeCamp. And the *Build a Survey Form* project seems to coming along quite nicely, I already have a preferred design structure laid out and I just have to implement it.
+
+**Link to work:** *Day 80 - Day 82 - freeCodeCamp - Build a Tribute Page & Build a Survey Form* -  [Tweet](https://twitter.com/Changamire_Musa/status/1028706461722005504) | [CodePen - Build a Tribute Page](https://codepen.io/solomonkamanga/pen/wrJVRZ)
