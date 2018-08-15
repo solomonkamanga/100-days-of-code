@@ -538,3 +538,12 @@
 **Thoughts:** I had initially wanted to do the *Build a Tribute Page* project as a revamp of the tribute page I had previously done in legacy version of freeCodeCamp but then I decided to do a different design. The new design is very minimalistic and quite to the example given by freeCodeCamp. And the *Build a Survey Form* project seems to coming along quite nicely, I already have a preferred design structure laid out and I just have to implement it.
 
 **Link to work:** *Day 80 - Day 82 - freeCodeCamp - Build a Tribute Page & Build a Survey Form* -  [Tweet](https://twitter.com/Changamire_Musa/status/1028706461722005504) | [CodePen - Build a Tribute Page](https://codepen.io/solomonkamanga/pen/wrJVRZ)
+
+
+### Day 83 - Day 85: August 13, 2018 - August 15, 2018
+
+**Today's Progress:** Finally finished working on the *Build a Survey Form* project from freeCodeCamp.
+
+**Thoughts:** Responsive design is something that I'm still struggling with but I'm going to continue working on improving. It's more about lack of practice rather than lack knowledge. I know what I'm supposed to do, I just need to do it effectively. One thing I am happy about is that my web design skills are continuing to get better.
+
+**Link to work:** *Day 83 - Day 85 - freeCodeCamp - Build a Survey Form* - [Tweet](https://twitter.com/Changamire_Musa/status/1029735401588707329) | [CodePen](https://codepen.io/solomonkamanga/full/ZjZpJm/)
