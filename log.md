@@ -547,3 +547,12 @@
 **Thoughts:** Responsive design is something that I'm still struggling with but I'm going to continue working on improving. It's more about lack of practice rather than lack knowledge. I know what I'm supposed to do, I just need to do it effectively. One thing I am happy about is that my web design skills are continuing to get better.
 
 **Link to work:** *Day 83 - Day 85 - freeCodeCamp - Build a Survey Form* - [Tweet](https://twitter.com/Changamire_Musa/status/1029735401588707329) | [CodePen](https://codepen.io/solomonkamanga/full/ZjZpJm/)
+
+
+### Day 86: August 16, 2018
+
+**Today's Progress:** Started working on the *Build a Product Landing Page* project from freeCodeCamp.
+
+**Thoughts:** The project is going well so far. I feel like I have actually developed a definitive understanding of web development fundamentals, which has thus far yielded tangible results. I am starting to worry less about what I don't know and focusing more on how I can effectively learn new concepts.
+
+**Link to work:** [Day 86 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030190087466876929)
