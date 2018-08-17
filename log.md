@@ -556,3 +556,12 @@
 **Thoughts:** The project is going well so far. I feel like I have actually developed a definitive understanding of web development fundamentals, which has thus far yielded tangible results. I am starting to worry less about what I don't know and focusing more on how I can effectively learn new concepts.
 
 **Link to work:** [Day 86 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030190087466876929)
+
+
+### Day 87: August 17, 2018
+
+**Today's Progress:** Still working on the *Build a Product Landing Page* project from freeCodeCamp.
+
+**Thoughts:** I've realized that taking a break from a project, as opposed to trying to knuckle down until you figure it out, really allows you to approach it with a fresh perspective. The product landing page project is far from finished but at least I'm starting to realize some of the things I'm doing wrong.
+
+**Link to work:** [Day 87 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030561708841082881)
