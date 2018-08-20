@@ -565,3 +565,12 @@
 **Thoughts:** I've realized that taking a break from a project, as opposed to trying to knuckle down until you figure it out, really allows you to approach it with a fresh perspective. The product landing page project is far from finished but at least I'm starting to realize some of the things I'm doing wrong.
 
 **Link to work:** [Day 87 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030561708841082881)
+
+
+### Day 88 - Day 90 : August 18, 2018 - August 20, 2018
+
+**Today's Progress:** Spent the better part of my weekend and today's coding sessions working on the *Build a Product Landing Page* project from freeCodeCamp, and I finally finished it.
+
+**Thoughts:** During the duration of the development of this project I put into practice the language I had gained about responsive design, CSS Flexbox, CSS Grid and CSS in general. There's still a long way to go before I am an expert but at least I understand the fundamentals.
+
+**Link to work:** *Day 88 - Day 90 - freeCodeCamp - Build a Product Landing Page* - [Tweet](https://twitter.com/Changamire_Musa/status/1031646458431397888) | [CodePen](https://codepen.io/solomonkamanga/full/pZXYez/)
