@@ -574,3 +574,21 @@
 **Thoughts:** During the duration of the development of this project I put into practice the language I had gained about responsive design, CSS Flexbox, CSS Grid and CSS in general. There's still a long way to go before I am an expert but at least I understand the fundamentals.
 
 **Link to work:** *Day 88 - Day 90 - freeCodeCamp - Build a Product Landing Page* - [Tweet](https://twitter.com/Changamire_Musa/status/1031646458431397888) | [CodePen](https://codepen.io/solomonkamanga/full/pZXYez/)
+
+
+### Day 91: August 21, 2018
+
+**Today's Progress:** Started the Build a Technical Documentation Page project from freeCodeCamp. And so far so good.
+
+**Thoughts:** Just like all the other projects which are part of the Responsive Web Design Projects, I'm going to trying to develop this project using standard HTML and CSS. I could've easily used a CSS framework to style the webpage but I really want to refine my skills using the standard tools for web development.
+
+**Link to work:** [Day 91 - freeCodeCamp - Build a Technical Documentation Page](https://twitter.com/Changamire_Musa/status/1031965892450701312)
+
+
+### Day 92 - Day 93: August 22, 2018 - August 23, 2018
+
+**Today's Progress:** Finished the Build a Technical Documentation Page project from freeCodeCamp.
+
+**Thoughts:** Even though this challenge was about creating a very simplistic documentation page I am happy with how the project turned out. This is a format I believe I can definitely for documentation in professional career. However, it can always be improved.
+
+**Link to work:** *Day 92 - Day 93 - freeCodeCamp - Build a Technical Documentation Page* [Tweet](https://twitter.com/Changamire_Musa/status/1032766219273883648) | [CodePen](https://codepen.io/solomonkamanga/full/gdOjmW/)
