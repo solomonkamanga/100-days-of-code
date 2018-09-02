@@ -592,3 +592,21 @@
 **Thoughts:** Even though this challenge was about creating a very simplistic documentation page I am happy with how the project turned out. This is a format I believe I can definitely for documentation in professional career. However, it can always be improved.
 
 **Link to work:** *Day 92 - Day 93 - freeCodeCamp - Build a Technical Documentation Page* [Tweet](https://twitter.com/Changamire_Musa/status/1032766219273883648) | [CodePen](https://codepen.io/solomonkamanga/full/gdOjmW/)
+
+
+### Day 94 - Day 95: August 26, 2018 - August 27, 2018
+
+**Today's Progress:** Started on the personal portfolio project from freeCodeCamp.
+
+**Thoughts:** This is the first project that I'm actually going to develop using Bootstrap. A lot of the elements in the website are from a portfolio website I had created earlier in my #100DaysOfCode journey. However, there's also a lot of new functionality and design concepts incorporated into this version.
+
+**Link to work:** [Day 94 - Day 95 - freeCodeCamp - Build a Personal Portfolio Page](https://twitter.com/Changamire_Musa/status/1034441273468497920)
+
+
+### Day 95 - Day 100: August 28, 2018 - September 1, 2018
+
+**Today's Progress:** Finished the Build a Personal Portfolio project from freeCodeCamp.
+
+**Thoughts:** I'm finally done with #100DaysOfCode. I took longer than I thought I would due to work and life commitments but I stuck with it and eventually finished. My experience was very impactful, throughout the journey I learnt a lot things that made me reassess my thought process and also how I approach problem solving. Despite the many setbacks, I'm quite happy with the time and effort I put into this journey.
+
+**Link to work:** *Day 92 - Day 93 - freeCodeCamp - Build a Personal Portfolio Webpage* [Tweet](https://twitter.com/Changamire_Musa/status/1036153613066948608) | [CodePen](https://codepen.io/solomonkamanga/full/RLZgMb/)
