@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# Log - Round 1
 
-### Day 1: September 5, 2017
+## Day 1: September 5, 2017
 
 **Today's Progress:** I did about 33% of the **Learning HTML** course on [Codecademy](http://www.codecademy.com).
 
@@ -9,7 +9,7 @@
 **Link to work:** [Day 1 - Codecademy](https://twitter.com/Changamire_Musa/status/905294704178290688)
 
 
-### Day 2: September 8, 2017
+## Day 2: September 8, 2017
 
 **Today's Progress:** Continued with my refresher course for HTML on [Codecademy](http://www.codecademy.com).
 
@@ -18,7 +18,7 @@
 **Link to work:** [Day 2 - Codecademy](https://twitter.com/Changamire_Musa/status/906812275171962880)
 
 
-### Day 3: September 9, 2017
+## Day 3: September 9, 2017
 
 **Today's Progress:** Did 5 topics in the HTML Common Elements lesson on [Codecademy](http://www.codecademy.com).
 
@@ -27,7 +27,7 @@
 **Link to work:** [Day 3 - Codecademy](https://twitter.com/Changamire_Musa/status/906819658317225984)
 
 
-### Day 4: September 10, 2017
+## Day 4: September 10, 2017
 
 **Today's Progress:** Finished the HTML Common Elements lesson on Codecademy, which means I'm done with the Elements and Structure course.
 
@@ -36,7 +36,7 @@
 **Link to work:** [Day 4 - Codecademy](https://twitter.com/Changamire_Musa/status/907074198463447045)
 
 
-### Day 5: September 11, 2017
+## Day 5: September 11, 2017
 
 **Today's Progress:** Finished the HTML Tables lesson on Codecademy meaning I'm officially done with the whole **Learn HTML** course.
 
@@ -45,7 +45,7 @@
 **Link to work:** [Day 5 - Codecademy](https://twitter.com/Changamire_Musa/status/907367518242820096)
 
 
-### Day 6: September 13, 2017
+## Day 6: September 13, 2017
 
 **Today's Progress:** Spent 30 minutes on Codecademy doing the **Learn CSS: Selectors and Visual Rules** and then I spent another 30 minutes on [FreeCodeCamp](https://www.freecodecamp.org) doing lessons under the **HTML5/CSS** topic.
 
@@ -54,7 +54,7 @@
 **Link to work:** [Day 6 - Codecademy + FreeCodeCamp](https://twitter.com/Changamire_Musa/status/908060419088056322)
 
 
-### Day 7: September 14, 2017
+## Day 7: September 14, 2017
 
 **Today's Progress:** Finished the **CSS Setup and Selectors** interactive lesson in the **Learn CSS** course on Codecademy. It was definitely harder than I thought it'd be. Cause I'm actually supposed to know CSS from when I learnt it in university.
 
@@ -63,7 +63,7 @@
 **Link to work:** [Day 7 - Codecademy](https://twitter.com/Changamire_Musa/status/908473347658436608)
 
 
-### Day 8: September 15, 2017
+## Day 8: September 15, 2017
 
 **Today's Progress:** I'm starting to grasp & retain a lot of what I'm learning in the CSS course on Codecademy. I finished the **Visual Rules** lesson. And I'm now done with **CSS Selectors and Visual Rules** section and moving on to **The Box Model** section.
 
@@ -72,7 +72,7 @@
 **Link to work:** [Day 8 - Codecademy](https://twitter.com/Changamire_Musa/status/908859593245298688)
 
 
-### Day 9: September 16, 2017
+## Day 9: September 16, 2017
 
 **Today's Progress:** Completed the **The Box Model** and **Changing the Box Model** lessons of the **Learn CSS: The Box Model** course on Codecademy. With what I learnt today in the lesson I could quite possibly create my own CSS file for a website. The CSS file will probably consist of the bare minimum elements.
 
@@ -81,7 +81,7 @@
 **Link to work:** [Day 9 - Codecademy](https://twitter.com/Changamire_Musa/status/909254039560441856)
 
 
-### Day 10: September 17, 2017
+## Day 10: September 17, 2017
 
 **Today's Progress:** I completed the **Learn CSS: Display and Positioning** lesson on Codecademy. And I'm left with only 2 more lessons before I finish the entire CSS course.
 
@@ -90,7 +90,7 @@
 **Link to work:** [Day 10 - Codecademy](https://twitter.com/Changamire_Musa/status/909607061989752832)
 
 
-### Day 11: September 18, 2017
+## Day 11: September 18, 2017
 
 **Today's Progress:** I did the final two lessons in the **Learn CSS** course on [Codecademy](http://www.codecademy.com); **Color** and **Typography**. And as such I'm done with the course and I'll be moving onto **Responsive Design**.
 
@@ -99,7 +99,7 @@
 **Link to work:** [Day 11 - Codecademy](https://twitter.com/Changamire_Musa/status/909827305568194560)
 
 
-### Day 12: September 19, 2017
+## Day 12: September 19, 2017
 
 **Today's Progress:** Started the **Responsive Design** course on [Codecademy](http://www.codecademy.com) and did the first lesson on **Sizing Elements**.
 
@@ -108,7 +108,7 @@
 **Link to work:** [Day 12 - Codecademy](https://twitter.com/Changamire_Musa/status/910221444721922049)
 
 
-### Day 13: September 20, 2017
+## Day 13: September 20, 2017
 
 **Today's Progress:** I finished the **Responsive Design** course on [Codecademy](http://www.codecademy.com) by doing the final lesson on **Media Queries**.
 
@@ -117,7 +117,7 @@
 **Link to work:** [Day 13 - Codecademy](https://twitter.com/Changamire_Musa/status/910576407327252480)
 
 
-### Day 14: September 21, 2017
+## Day 14: September 21, 2017
 
 **Today's Progress:** I did the **HTML/CSS** exercises on [freeCodeCamp](http://www.freecodecamp.org) and I finally finished the course.
 
@@ -126,7 +126,7 @@
 **Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911072598859030528)
 
 
-### Day 15: September 22, 2017
+## Day 15: September 22, 2017
 
 **Today's Progress:** Finished all **Responsive Design with Bootstrap** exercises on [freeCodeCamp](http://www.freecodecamp.org).
 
@@ -135,7 +135,7 @@
 **Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911372366940397569)
 
 
-### Day 16: September 23, 2017
+## Day 16: September 23, 2017
 
 **Today's Progress:** Did the **jQuery** section on [freeCodeCamp](http://www.freecodecamp.org).
 
@@ -144,7 +144,7 @@
 **Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/911726290197151746)
 
 
-### Day 17: September 24, 2017
+## Day 17: September 24, 2017
 
 **Today's Progress:** Started on the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org).
 
@@ -153,7 +153,7 @@
 **Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912181411406376961)
 
 
-### Day 18: September 25, 2017
+## Day 18: September 25, 2017
 
 **Today's Progress:** Continued with the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org).
 
@@ -162,7 +162,7 @@
 **Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912427665033973760)
 
 
-### Day 19: September 26, 2017
+## Day 19: September 26, 2017
 
 **Today's Progress:** Worked on making the website from the tribute page challenge on [freeCodeCamp](http://www.freecodecamp.org) a bit more responsive.
 
@@ -171,7 +171,7 @@
 **Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/912916810223243265)
 
 
-### Day 20: September 28, 2017
+## Day 20: September 28, 2017
 
 **Today's Progress:** Continued to try and make the **freeCodeCamp** tribute page more responsive.
 
@@ -180,7 +180,7 @@
 **Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/913675346209312768)
 
 
-### Day 21: September 29, 2017
+## Day 21: September 29, 2017
 
 **Today's Progress:** Started on the CSS media queries for the **freeCodeCamp** tribute page more responsive.
 
@@ -189,7 +189,7 @@
 **Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914045450558337024)
 
 
-### Day 22: September 30, 2017
+## Day 22: September 30, 2017
 
 **Today's Progress:** Finally finished the **Build a Tribute Page** challenge from **freeCodeCamp**.
 
@@ -198,7 +198,7 @@
 **Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914413760160428032)
 
 
-### Day 23: October 1, 2017
+## Day 23: October 1, 2017
 
 **Today's Progress:** Started on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -207,7 +207,7 @@
 **Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914661276508413952)
 
 
-### Day 24: October 2, 2017
+## Day 24: October 2, 2017
 
 **Today's Progress:** Took a break from the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** to work on an Android app that I've
 
@@ -216,7 +216,7 @@
 **Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/914950528303603713)
 
 
-### Day 25: October 3, 2017
+## Day 25: October 3, 2017
 
 **Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. I mostly did research on some of the design ideas I had. And I also tried to wireframe these ideas.
 
@@ -225,7 +225,7 @@
 **Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/915400203112517633)
 
 
-### Day 26: October 5, 2017
+## Day 26: October 5, 2017
 
 **Today's Progress:** Continued working on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** by wireframing more of the ideas I had.
 
@@ -234,7 +234,7 @@
 **Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916092060041732097)
 
 
-### Day 27: October 6, 2017
+## Day 27: October 6, 2017
 
 **Today's Progress:** Started actively writing code for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp** based on the design that wireframed.
 
@@ -243,7 +243,7 @@
 **Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/916558323473936384)
 
 
-### Day 28: October 8, 2017
+## Day 28: October 8, 2017
 
 **Today's Progress:** Continued working on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -252,7 +252,7 @@
 **Link to work:** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917259348065308672)
 
 
-### Day 29: October 9, 2017
+## Day 29: October 9, 2017
 
 **Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**. I definitely had more errors than progress today.
 
@@ -261,7 +261,7 @@
 **Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917561398170914817)
 
 
-### Day 30: October 10, 2017
+## Day 30: October 10, 2017
 
 **Today's Progress:** Continued with the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -270,7 +270,7 @@
 **Link to work:** [Day 30 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/917950488292790272)
 
 
-### Day 31: October 11, 2017
+## Day 31: October 11, 2017
 
 **Today's Progress:** **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -279,7 +279,7 @@
 **Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918241335836069896)
 
 
-### Day 32: October 12, 2017
+## Day 32: October 12, 2017
 
 **Today's Progress:** Researched and tried a couple of animations that I wanted to use in the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -288,7 +288,7 @@
 **Link to work:** [Day 32 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/918708270281367555)
 
 
-### Day 33: October 13, 2017
+## Day 33: October 13, 2017
 
 **Today's Progress:** Worked on the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -297,7 +297,7 @@
 **Link to work:** [Day 33 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919113379041677313)
 
 
-### Day 34: October 14, 2017
+## Day 34: October 14, 2017
 
 **Today's Progress:** Did some work on my portfolio page; primarily the portfolio section.
 
@@ -306,7 +306,7 @@
 **Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919433546577711104)
 
 
-### Day 35: October 15, 2017
+## Day 35: October 15, 2017
 
 **Today's Progress:** Continued working on the portfolio section of the website for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -315,7 +315,7 @@
 **Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/919822961514819584)
 
 
-### Day 36: October 16, 2017
+## Day 36: October 16, 2017
 
 **Today's Progress:** Worked on the portfolio and contact section of my website for the **Build a Personal Portfolio Webpage** challenge from **freeCodeCamp**.
 
@@ -324,7 +324,7 @@
 **Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/920171826474602496)
 
 
-### Day 37 - Day 41: October 17, 2017 - October 21, 2017
+## Day 37 - Day 41: October 17, 2017 - October 21, 2017
 
 **Today's Progress:** Finally made some headway in finishing my portfolio page. I'm officially done with all the sections I wanted to have on the website. I just to need to make it look better and also add content. And I also made a coming soon page which is meant to countdown to the launch of my website.
 
@@ -333,7 +333,7 @@
 **Link to work:** Day 37 - Day 41 - freeCodeCamp [1st Tweet](https://twitter.com/Changamire_Musa/status/921701168627306496) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/921701682567876608) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/921702924321017856) | [Coming Soon Page Repo](https://github.com/solomonkamanga/coming-soon-page)
 
 
-### Day 42: October 22, 2017
+## Day 42: October 22, 2017
 
 **Today's Progress:** Decided to take a break from the **Build a Personal Portfolio Webpage** challenge because I need to figure out how I can enhance the aesthetic appeal of my website. And I worked on building a PHP/MySQL back end for an Android app I have been working on.
 
@@ -342,7 +342,7 @@
 **Link to work:** [Day 36 - Android/PHP & MySQL](https://twitter.com/Changamire_Musa/status/922223711784198146)
 
 
-### Day 43: October 30, 2017
+## Day 43: October 30, 2017
 
 **Today's Progress:** After taking a week long break from the challenge, I decided to get back to it. Spent my session learning about the new features in **Android Studio 3.0**.
 
@@ -351,7 +351,7 @@
 **Link to work:** [Day 43 - Learning about Android Studio 3.0](https://twitter.com/Changamire_Musa/status/925109516018094080)
 
 
-### Day 44 - 46: October 31, 2017 - November 2, 2017
+## Day 44 - 46: October 31, 2017 - November 2, 2017
 
 **Today's Progress:** Finally finished my personal portfolio for [freeCodeCamp](https://www.freecodecamp.com).
 
@@ -360,7 +360,7 @@
 **Link to work:** Day 44 - 46 [1st Tweet](https://twitter.com/Changamire_Musa/status/926282059781476353) | [2nd Tweet](https://twitter.com/Changamire_Musa/status/926283150921293824) | [3rd Tweet](https://twitter.com/Changamire_Musa/status/926283903744143360) | [CodePen](https://codepen.io/solomonkamanga/full/RLZgMb/)
 
 
-### Day 47: November 3, 2017
+## Day 47: November 3, 2017
 
 **Today's Progress:** My knowledge of Git isn't as it should be so I took some time off from the actual coding to learn more about it. I took a tutorial from [Code School](https://www.codeschool.com)
 
@@ -369,7 +369,7 @@
 **Link to work:** [Day 47 - Learning Git using TryGit via Code School](https://twitter.com/Changamire_Musa/status/926550192769335297)
 
 
-### Day 48 - Day 50: November 4, 2017 - November 6, 2017 
+## Day 48 - Day 50: November 4, 2017 - November 6, 2017 
 
 **Today's Progress:** Did about half of the challenges in **Basic JavaScript** on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -378,7 +378,7 @@
 **Link to work:** [Day 48 - Day 50 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/927516264238632961)
 
 
-### Day 51: November 7, 2017 
+## Day 51: November 7, 2017 
 
 **Today's Progress:** Continued doing challenges in the **Basic JavaScript** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -387,7 +387,7 @@
 **Link to work:** [Day 51 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/928104891125465089)
 
 
-### Day 52 - Day 57: November 8, 2017 - November 13, 2017 
+## Day 52 - Day 57: November 8, 2017 - November 13, 2017 
 
 **Today's Progress:** Finally completed the challenges in the **Basic JavaScript** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -396,7 +396,7 @@
 **Link to work:** [Day 52 - Day 57 - Basic JavaScript on freeCodeCamp](https://twitter.com/Changamire_Musa/status/930179966779748353)
 
 
-### Day 58: November 14, 2017 
+## Day 58: November 14, 2017 
 
 **Today's Progress:** Spent my coding session on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga). I did all of the challenges in the **Object Oriented & Functional Programming** section. And I also did 2 challenges in the **Basic Algorithm Scripting** section.
 
@@ -405,7 +405,7 @@
 **Link to work:** [Day 58 - Object Oriented & Functional Programming | Basic Algorithm Scripting -> freeCodeCamp](https://twitter.com/Changamire_Musa/status/930552592572219392)
 
 
-### Day 59: November 15, 2017 
+## Day 59: November 15, 2017 
 
 **Today's Progress:** Continued working on challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -414,7 +414,7 @@
 **Link to work:** [Day 59 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931051142821416960)
 
 
-### Day 60: November 16, 2017 
+## Day 60: November 16, 2017 
 
 **Today's Progress:** Spent yet another coding session working on challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -423,7 +423,7 @@
 **Link to work:** [Day 60 - Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931282233981272066)
 
 
-### Day 61 - Day 62: November 17, 2017 - November 18, 2017 
+## Day 61 - Day 62: November 17, 2017 - November 18, 2017 
 
 **Today's Progress:** Completed the challenges in the **Basic Algorithm Scripting** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -432,7 +432,7 @@
 **Link to work:** [Day 61 - Day 62 -> Basic Algorithm Scripting - freeCodeCamp](https://twitter.com/Changamire_Musa/status/931736998087454720)
 
 
-### Day 63: November 19, 2017 
+## Day 63: November 19, 2017 
 
 **Today's Progress:** Completed the challenges in the **JSON APIs and AJAX** section on [freeCodeCamp](https://www.freecodecamp.com/solomonkamanga).
 
@@ -441,7 +441,7 @@
 **Link to work:** [Day 63 - JSON APIs and AJAX - freeCodeCamp](https://twitter.com/Changamire_Musa/status/932368637180116992)
 
 
-### Day 64: November 20, 2017 
+## Day 64: November 20, 2017 
 
 **Today's Progress:** Started on the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com).
 
@@ -450,7 +450,7 @@
 **Link to work:** [Day 64 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/932732016168243202)
 
 
-### Day 65: November 21, 2017 
+## Day 65: November 21, 2017 
 
 **Today's Progress:** I finished working on the design for the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com) and then I started working on implementing the random quote functionality.
 
@@ -459,7 +459,7 @@
 **Link to work:** [Day 65 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/933139121891033089)
 
 
-### Day 66: November 22, 2017 
+## Day 66: November 22, 2017 
 
 **Today's Progress:** I'm almost done with the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com). But unfortunately not all the application's functionalities are working.
 
@@ -468,7 +468,7 @@
 **Link to work:** [Day 66 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/933491456475648000)
 
 
-### Day 67 - Day 70: November 23, 2017 -  November 26, 2017
+## Day 67 - Day 70: November 23, 2017 -  November 26, 2017
 
 **Today's Progress:** Finally finished the **Build a Random Quote Machine** challenge from [freeCodeCamp](https://www.freecodecamp.com). I managed to fix all the errors that I had previously encountered with the application's functionality. I also revamped the design to make the application look better.
 
@@ -477,7 +477,7 @@
 **Link to work:** [Day 67 - Day 70 - Build a Random Quote Machine - freeCodeCamp](https://twitter.com/Changamire_Musa/status/934821058447888384)
 
 
-### Day 71: July 27, 2018
+## Day 71: July 27, 2018
 
 **Today's Progress:** After somewhat of a hiatus, I've decided to give #100DaysOfCode another go. Hopefully this time around I'll make it to the finish line. Today I worked mostly on freeCodeCamp. I did the new challenges in the HTML & CSS sections. And I started on the Applied Visual Design section.   
 
@@ -486,7 +486,7 @@
 **Link to work:** [Day 71 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023026007584976896)
 
 
-### Day 72 & Day 73: July 28, 2018 - July 29, 2018
+## Day 72 & Day 73: July 28, 2018 - July 29, 2018
 
 **Today's Progress:** Continued working on challenges from the Applied Visual Design section on freeCodeCamp.   
 
@@ -495,7 +495,7 @@
 **Link to work:** [Day 72 & Day 73 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1023733381866168321)
 
 
-### Day 74: August 2, 2018
+## Day 74: August 2, 2018
 
 **Today's Progress:** Finally completed the Applied Visual Design section on freeCodeCamp. Learnt about how aspects such as typography, color, animation, graphics along with page layout contribute to a good design. This has helped me understand the structure of visual design that fulfills user requirements and still looks great. 
 
@@ -504,7 +504,7 @@
 **Link to work:** [Day 74 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1025138142083522561)
 
 
-### Day 75 - Day 77: August 5, 2018 - August 7, 2018
+## Day 75 - Day 77: August 5, 2018 - August 7, 2018
 
 **Today's Progress:** Completed the Applied Accessibility challenges on freeCodeCamp. It took longer than anticipated because there is a lot I didn't know about accessibility. And such there was lot of googling involved.
 
@@ -513,7 +513,7 @@
 **Link to work:** [Day 75 - Day 77 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027050065528008704)
 
 
-### Day 78: August 8, 2018
+## Day 78: August 8, 2018
 
 **Today's Progress:** Completed the Responsive Web Design Principles & CSS Flexbox challenges on freeCodeCamp.
 
@@ -522,7 +522,7 @@
 **Link to work:** [Day 78 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027383943019094017)
 
 
-### Day 79: August 9, 2018
+## Day 79: August 9, 2018
 
 **Today's Progress:** I finished the CSS Grid challenges on freeCodeCamp.
 
@@ -531,7 +531,7 @@
 **Link to work:** [Day 79 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1027883718923505664)
 
 
-### Day 80 - Day 82: August 10, 2018 - August 12, 2018
+## Day 80 - Day 82: August 10, 2018 - August 12, 2018
 
 **Today's Progress:** I worked on the *Responsive Web Design Projects* from freeCodeCamp. I completed the *Build a Tribute Page* project and started working on the *Build a Survey Form* project.
 
@@ -540,7 +540,7 @@
 **Link to work:** *Day 80 - Day 82 - freeCodeCamp - Build a Tribute Page & Build a Survey Form* -  [Tweet](https://twitter.com/Changamire_Musa/status/1028706461722005504) | [CodePen - Build a Tribute Page](https://codepen.io/solomonkamanga/pen/wrJVRZ)
 
 
-### Day 83 - Day 85: August 13, 2018 - August 15, 2018
+## Day 83 - Day 85: August 13, 2018 - August 15, 2018
 
 **Today's Progress:** Finally finished working on the *Build a Survey Form* project from freeCodeCamp.
 
@@ -549,7 +549,7 @@
 **Link to work:** *Day 83 - Day 85 - freeCodeCamp - Build a Survey Form* - [Tweet](https://twitter.com/Changamire_Musa/status/1029735401588707329) | [CodePen](https://codepen.io/solomonkamanga/full/ZjZpJm/)
 
 
-### Day 86: August 16, 2018
+## Day 86: August 16, 2018
 
 **Today's Progress:** Started working on the *Build a Product Landing Page* project from freeCodeCamp.
 
@@ -558,7 +558,7 @@
 **Link to work:** [Day 86 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030190087466876929)
 
 
-### Day 87: August 17, 2018
+## Day 87: August 17, 2018
 
 **Today's Progress:** Still working on the *Build a Product Landing Page* project from freeCodeCamp.
 
@@ -567,7 +567,7 @@
 **Link to work:** [Day 87 - freeCodeCamp - Build a Product Landing Page](https://twitter.com/Changamire_Musa/status/1030561708841082881)
 
 
-### Day 88 - Day 90 : August 18, 2018 - August 20, 2018
+## Day 88 - Day 90 : August 18, 2018 - August 20, 2018
 
 **Today's Progress:** Spent the better part of my weekend and today's coding sessions working on the *Build a Product Landing Page* project from freeCodeCamp, and I finally finished it.
 
@@ -576,7 +576,7 @@
 **Link to work:** *Day 88 - Day 90 - freeCodeCamp - Build a Product Landing Page* - [Tweet](https://twitter.com/Changamire_Musa/status/1031646458431397888) | [CodePen](https://codepen.io/solomonkamanga/full/pZXYez/)
 
 
-### Day 91: August 21, 2018
+## Day 91: August 21, 2018
 
 **Today's Progress:** Started the Build a Technical Documentation Page project from freeCodeCamp. And so far so good.
 
@@ -585,7 +585,7 @@
 **Link to work:** [Day 91 - freeCodeCamp - Build a Technical Documentation Page](https://twitter.com/Changamire_Musa/status/1031965892450701312)
 
 
-### Day 92 - Day 93: August 22, 2018 - August 23, 2018
+## Day 92 - Day 93: August 22, 2018 - August 23, 2018
 
 **Today's Progress:** Finished the Build a Technical Documentation Page project from freeCodeCamp.
 
@@ -594,7 +594,7 @@
 **Link to work:** *Day 92 - Day 93 - freeCodeCamp - Build a Technical Documentation Page* [Tweet](https://twitter.com/Changamire_Musa/status/1032766219273883648) | [CodePen](https://codepen.io/solomonkamanga/full/gdOjmW/)
 
 
-### Day 94 - Day 95: August 26, 2018 - August 27, 2018
+## Day 94 - Day 95: August 26, 2018 - August 27, 2018
 
 **Today's Progress:** Started on the personal portfolio project from freeCodeCamp.
 
@@ -603,7 +603,7 @@
 **Link to work:** [Day 94 - Day 95 - freeCodeCamp - Build a Personal Portfolio Page](https://twitter.com/Changamire_Musa/status/1034441273468497920)
 
 
-### Day 95 - Day 100: August 28, 2018 - September 1, 2018
+## Day 95 - Day 100: August 28, 2018 - September 1, 2018
 
 **Today's Progress:** Finished the Build a Personal Portfolio project from freeCodeCamp.
 
