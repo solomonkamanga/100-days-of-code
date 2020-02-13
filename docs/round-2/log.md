@@ -8,3 +8,10 @@
 
 **Link to work:** [Day 0 - GitHub](https://github.com/solomonkamanga/100-days-of-code)
 
+## Day 1: February 12, 2020
+
+**Today's Progress:** I started working on [freeCodeCamp's](https://www.freecodecamp.org) JavaScript Algorithms and Data Structures Certification. Worked through the exercises in the Basic JavaScript section.
+
+**Thoughts:** Re-learning foundational concepts in any programming language is always great because it assesses how well you understand them. So even though a lot of the exercises I did today were quite easy it was great revisiting these topics.
+
+**Link to work:** [Day 1 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1227749691636535297)
