@@ -23,3 +23,11 @@
 **Thoughts:** At the point none of the exercises are challenging as it is concepts that I already know but it is still great preparation to tackle more complex concepts and complete the projects.
 
 **Link to work:** [Day 2 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1228075161355718667)
+
+## Day 3: February 15, 2020
+
+**Today's Progress:** Worked on the Array exercises in [freeCodeCamp's](https://www.freecodecamp.org) Basic JavaScript section.
+
+**Thoughts:** It was refreshing to revisit the declaration and manipulation of arrays, as it is a concept that no only applies to a lot of concepts going forward in the certification, but also as part of my actual job.
+
+**Link to work:** [Day 3 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1228710647602479110)
