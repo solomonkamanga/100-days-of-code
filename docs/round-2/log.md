@@ -31,3 +31,12 @@
 **Thoughts:** It was refreshing to revisit the declaration and manipulation of arrays, as it is a concept that no only applies to a lot of concepts going forward in the certification, but also as part of my actual job.
 
 **Link to work:** [Day 3 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1228710647602479110)
+
+
+## Day 4: February 16, 2020
+
+**Today's Progress:** Completed the Function exercises in [freeCodeCamp's](https://www.freecodecamp.org) Basic JavaScript section, which included implementing a simple queue.
+
+**Thoughts:** Even though freeCodeCamp is a great resource, it does however all the topics in concise and easily manageable modules so inorder to learn something in its entirety I will have to invest time into other resources such as books, video tutorials and coding exercises.
+
+**Link to work:** [Day 4 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229117170585612295)
