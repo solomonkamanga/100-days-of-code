@@ -40,3 +40,11 @@
 **Thoughts:** Even though freeCodeCamp is a great resource, it does however all the topics in concise and easily manageable modules so inorder to learn something in its entirety I will have to invest time into other resources such as books, video tutorials and coding exercises.
 
 **Link to work:** [Day 4 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229117170585612295)
+
+## Day 5: February 17, 2020
+
+**Today's Progress:** Continued working on [freeCodeCamp's](https://www.freecodecamp.org) Basic JavaScript. Covered implementing conditional logic through comparison operators and conditional statements. And also learnt a bit about golf, through an exercise that simplified the logic for the scoring process.
+
+**Thoughts:** May have to overhaul my schedule to find adequate time for #100DaysOfCode. Because at present most of my sessions are late at night and this means I get to bed to late. This ultimately means, I wake up tired and decrease my overall productivity for the day.
+
+**Link to work:** [Day 5 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229536859061202944)
