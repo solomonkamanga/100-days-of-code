@@ -48,3 +48,11 @@
 **Thoughts:** May have to overhaul my schedule to find adequate time for #100DaysOfCode. Because at present most of my sessions are late at night and this means I get to bed to late. This ultimately means, I wake up tired and decrease my overall productivity for the day.
 
 **Link to work:** [Day 5 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229536859061202944)
+
+## Day 6: February 18, 2020
+
+**Today's Progress:** Completed exercises on switch statements (Basic JavaScript - [freeCodeCamp](https://www.freecodecamp.org)) and wrote a card counting function for Blackjack. 
+
+**Thoughts:** As I progress through Basic JavaScript, the exercises are getting more challenging. Especially the final exercises, which is a great test of whatever knowledge I would have acquired through the previous exercises and my overall understanding of JavaScript.
+
+**Link to work:** [Day 6 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229899633629028352)
