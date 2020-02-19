@@ -56,3 +56,11 @@
 **Thoughts:** As I progress through Basic JavaScript, the exercises are getting more challenging. Especially the final exercises, which is a great test of whatever knowledge I would have acquired through the previous exercises and my overall understanding of JavaScript.
 
 **Link to work:** [Day 6 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229899633629028352)
+
+## Day 7: February 19, 2020
+
+**Today's Progress:** Worked on the exercises for JavaScript Objects(Basic JavaScript - [freeCodeCamp](https://www.freecodecamp.org)). Did not complete the final exercise, which was writing a function for a record collection.  Will do that in my next coding session.
+
+**Thoughts:** Even though JavaScript Objects was a particularly challenging topic I greatly enjoyed today's session despite not completing the final exercise. I am happy that even after a particularly long day at work I still managed to find time for my coding session. And in future, there is a great possibility that I will have many such days, and as much as being dedicated to the challenge is quite important to me I also need to understand when to take breaks or stop for the day.
+
+**Link to work:** [Day 7 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230264655207071744)
