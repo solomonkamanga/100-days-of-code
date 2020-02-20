@@ -4,7 +4,7 @@
 
 **Today's Progress:** Took care of some housekeeping like coming up with a plan of action & setting up a repo for my log (will be using [docsify](https://docsify.js.org) for this). Now this #100DaysOfCode can begin!
 
-**Thoughts:** The basis of this whole process was to ensure that would not be bogged by the mundane tasks of planning my work and setting up a structure for my repositiries. This will ensure that once I start I will be more focused on the task at hand.
+**Thoughts:** The basis of this whole process was to ensure that would not be bogged by the mundane tasks of planning my work and setting up a structure for my repositories. This will ensure that once I start I will be more focused on the task at hand.
 
 **Link to work:** [Day 0 - GitHub](https://github.com/solomonkamanga/100-days-of-code)
 
@@ -37,7 +37,7 @@
 
 **Today's Progress:** Completed the Function exercises in [freeCodeCamp's](https://www.freecodecamp.org) Basic JavaScript section, which included implementing a simple queue.
 
-**Thoughts:** Even though freeCodeCamp is a great resource, it does however all the topics in concise and easily manageable modules so inorder to learn something in its entirety I will have to invest time into other resources such as books, video tutorials and coding exercises.
+**Thoughts:** Even though freeCodeCamp is a great resource, it does however only have the topics in concise and easily manageable modules so in order to learn something in its entirety I will have to invest time into other resources such as books, video tutorials and coding exercises.
 
 **Link to work:** [Day 4 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229117170585612295)
 
@@ -64,3 +64,11 @@
 **Thoughts:** Even though JavaScript Objects was a particularly challenging topic I greatly enjoyed today's session despite not completing the final exercise. I am happy that even after a particularly long day at work I still managed to find time for my coding session. And in future, there is a great possibility that I will have many such days, and as much as being dedicated to the challenge is quite important to me I also need to understand when to take breaks or stop for the day.
 
 **Link to work:** [Day 7 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230264655207071744)
+
+## Day 8: February 20, 2020
+
+**Today's Progress:** Finished working on the record collection function (Basic JavaScript - [freeCodeCamp](https://www.freecodecamp.org)). And also worked on the Loop exercises.
+
+**Thoughts:** Working on this challenge has definitely helped and will continue to help me revisit the theory behind the programming concepts I use on a daily basis at work, which will definitely improve my understanding.
+
+**Link to work:** [Day 8 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230605543968038913)
