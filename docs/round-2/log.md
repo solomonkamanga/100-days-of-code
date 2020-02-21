@@ -72,3 +72,11 @@
 **Thoughts:** Working on this challenge has definitely helped and will continue to help me revisit the theory behind the programming concepts I use on a daily basis at work, which will definitely improve my understanding.
 
 **Link to work:** [Day 8 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230605543968038913)
+
+## Day 9: February 21, 2020
+
+**Today's Progress:** Completed the Profile Lookup function. Also worked on the exercises for generating random numbers, recursion and ternary operators. So I have now completed the Basic JavaScript section ([freeCodeCamp](https://www.freecodecamp.org)).
+
+**Thoughts:** Even though I have completed Basic JavaScript, a lot of the topics covered in this section are quite foundational to having a great understanding of JavaScript, so I will have to keep revisiting them as I continue through the certification. This will ensure that I have a great grasp of these concepts and can use them effectively.
+
+**Link to work:** [Day 9 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230964000567054338)
