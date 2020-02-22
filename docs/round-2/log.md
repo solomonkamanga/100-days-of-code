@@ -80,3 +80,11 @@
 **Thoughts:** Even though I have completed Basic JavaScript, a lot of the topics covered in this section are quite foundational to having a great understanding of JavaScript, so I will have to keep revisiting them as I continue through the certification. This will ensure that I have a great grasp of these concepts and can use them effectively.
 
 **Link to work:** [Day 9 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230964000567054338)
+
+## Day 10: February 22, 2020
+
+**Today's Progress:** Started on the exercises for learning about the features of ES6 on [freeCodeCamp](https://www.freecodecamp.org). 
+
+**Thoughts:** Going into this #100DaysOfCode challenge I was quite unsure I would be able to commit time on the weekend for coding sessions but I am quite happy with my progress so far. Because weekends are usually the time I rest after a week at work and I am not always motivated to do any work.
+
+**Link to work:** [Day 10 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231336589365858304)
