@@ -88,3 +88,11 @@
 **Thoughts:** Going into this #100DaysOfCode challenge I was quite unsure I would be able to commit time on the weekend for coding sessions but I am quite happy with my progress so far. Because weekends are usually the time I rest after a week at work and I am not always motivated to do any work.
 
 **Link to work:** [Day 10 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231336589365858304)
+
+## Day 11: February 23, 2020
+
+**Today's Progress:** Completed the ECMAScript 6 (ES6) exercises from [freeCodeCamp](https://www.freecodecamp.org).
+
+**Thoughts:** My introduction to ES6 concepts was not as smooth as I had hoped. Some of the concepts have quite a steep learning curve and I had to re-evaluate my learning process. The re-evaluation was just to ensure that my main focus is not retaining copious amounts of information but understanding the ES6 concepts enough to be able to use them when writing actual code. 
+
+**Link to work:** [Day 11 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231707063790768129)
