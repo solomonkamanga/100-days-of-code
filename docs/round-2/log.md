@@ -96,3 +96,11 @@
 **Thoughts:** My introduction to ES6 concepts was not as smooth as I had hoped. Some of the concepts have quite a steep learning curve and I had to re-evaluate my learning process. The re-evaluation was just to ensure that my main focus is not retaining copious amounts of information but understanding the ES6 concepts enough to be able to use them when writing actual code. 
 
 **Link to work:** [Day 11 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231707063790768129)
+
+## Day 12: February 24, 2020
+
+**Today's Progress:** Worked through about half of the exercises in the Regular Expressions chapter on [freeCodeCamp](https://www.freecodecamp.org).
+
+**Thoughts:** Regular expressions are an interesting concept and I cannot wait to see the various use cases I can use them when writing code. However, today was somewhat a difficult day because I felt overwhelmingly tired and at times it seemed as if I was doing everything on autopilot, and I was not truly engaged in what I was doing. I think one of the ways I can fix this is by taking more frequent breaks during coding sessions.
+
+**Link to work:** [Day 12 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232002181894721536)
