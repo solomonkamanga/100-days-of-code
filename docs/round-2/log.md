@@ -104,3 +104,11 @@
 **Thoughts:** Regular expressions are an interesting concept and I cannot wait to see the various use cases I can use them when writing code. However, today was somewhat a difficult day because I felt overwhelmingly tired and at times it seemed as if I was doing everything on autopilot, and I was not truly engaged in what I was doing. I think one of the ways I can fix this is by taking more frequent breaks during coding sessions.
 
 **Link to work:** [Day 12 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232002181894721536)
+
+## Day 13: February 25, 2020
+
+**Today's Progress:** Completed the Regular Expressions challenges from [freeCodeCamp](https://www.freecodecamp.org).
+
+**Thoughts:** Writing short notes during my coding or learning sessions means I take longer to complete a particular task but I believe it will definitely be worth it in the long term. Because it really helps with my understanding and retention of the concepts that I am learning. 
+
+**Link to work:** [Day 13 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232407945566134273)
