@@ -112,3 +112,11 @@
 **Thoughts:** Writing short notes during my coding or learning sessions means I take longer to complete a particular task but I believe it will definitely be worth it in the long term. Because it really helps with my understanding and retention of the concepts that I am learning. 
 
 **Link to work:** [Day 13 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232407945566134273)
+
+## Day 14: February 26, 2020
+
+**Today' Progress:** Worked through all of the Debugging exercises on [freeCodeCamp](https://www.freecodecamp.org).
+
+**Thoughts:** After about 2 weeks of working on this challenge I am happy with the results so far. Because I believe I am learning quite a lot and improving my skills in a significant way. However, there are still aspects I can improve on such as doing more practical exercises and being more consistent with my note taking during sessions.
+
+**Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232751938208436225)
