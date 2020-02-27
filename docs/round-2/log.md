@@ -120,3 +120,11 @@
 **Thoughts:** After about 2 weeks of working on this challenge I am happy with the results so far. Because I believe I am learning quite a lot and improving my skills in a significant way. However, there are still aspects I can improve on such as doing more practical exercises and being more consistent with my note taking during sessions.
 
 **Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232751938208436225)
+
+## Day 15: February 27, 2020
+
+**Today's Progress:** Spent today's session reading Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) book. Focused mainly on the concepts I have covered so far through [freeCodeCamp](https://www.freecodecamp.org) exercises; such as data types, operators and expressions (Chapter 2) & functions, model and objects (Chapter 3).
+
+**Link to work:** Coupling the practical aspects of following the freeCodeCamp curriculum and my own will work to enhance the knowledge that I will have at the end of the #100DaysOfCode challenge.
+
+**Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233136574344441857)
