@@ -125,6 +125,14 @@
 
 **Today's Progress:** Spent today's session reading Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) book. Focused mainly on the concepts I have covered so far through [freeCodeCamp](https://www.freecodecamp.org) exercises; such as data types, operators and expressions (Chapter 2) & functions, model and objects (Chapter 3).
 
-**Link to work:** Coupling the practical aspects of following the freeCodeCamp curriculum and my own will work to enhance the knowledge that I will have at the end of the #100DaysOfCode challenge.
+**Thoughts:** Coupling the practical aspects of following the freeCodeCamp curriculum and my own will work to enhance the knowledge that I will have at the end of the #100DaysOfCode challenge.
 
 **Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233136574344441857)
+
+## Day 16: February 28, 2020
+
+**Today' Progress:** Completed half of the challenges in the Basic Data Structures chapter on @freeCodeCamp.
+
+**Thoughts:** Apart from the actual coding, I also read a bit more of Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) book and watched some videos in the JavaScript Essentials Training course from [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training-3/). Also finally made an schedule using [My Study Life](https://www.mystudylife.com/). It is a platform that has a web app and a mobile app that allows me keep track of all my tasks.
+
+**Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233513792476241921)
