@@ -131,8 +131,16 @@
 
 ## Day 16: February 28, 2020
 
-**Today' Progress:** Completed half of the challenges in the Basic Data Structures chapter on @freeCodeCamp.
+**Today' Progress:** Completed half of the challenges in the Basic Data Structures chapter on [freeCodeCamp](https://www.freecodecamp.org).
 
 **Thoughts:** Apart from the actual coding, I also read a bit more of Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) book and watched some videos in the JavaScript Essentials Training course from [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training-3/). Also finally made an schedule using [My Study Life](https://www.mystudylife.com/). It is a platform that has a web app and a mobile app that allows me keep track of all my tasks.
 
 **Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233513792476241921)
+
+## Day 17: February 29, 2020
+
+**Today's Progress:** Completed the remaining challenges in the Basic Data Structures chapter on [freeCodeCamp](https://www.freecodecamp.org).
+
+**Thoughts:** Today was a pretty hard to session to get through because I felt overwhelmingly tired but I just had to push through because I was genuinely enjoying what I was learning despite the fatigue.
+
+**Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233791717494657025)
