@@ -144,3 +144,16 @@
 **Thoughts:** Today was a pretty hard to session to get through because I felt overwhelmingly tired but I just had to push through because I was genuinely enjoying what I was learning despite the fatigue.
 
 **Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233791717494657025)
+
+## Day 18: March 1, 2020
+
+**Today's Progress:** Completed the following algorithms from Basic Algorithms Scripting on [freeCodeCamp](https://www.freecodecamp.org):
+- Convert Celsius to Fahrenheit
+- Reverse a String
+- Factorize a Number
+- Find the Longest Word in a String
+- Return Largest Numbers in Arrays
+
+**Thoughts:** Overall it was a very productive weekend. It was not all entirely focused on coding but also learning new concepts through following courses on LinkedIn, reading books and making notes to gauge my understanding of the material.
+
+**Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234136246374535169)
