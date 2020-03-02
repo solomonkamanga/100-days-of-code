@@ -157,3 +157,12 @@
 **Thoughts:** Overall it was a very productive weekend. It was not all entirely focused on coding but also learning new concepts through following courses on LinkedIn, reading books and making notes to gauge my understanding of the material.
 
 **Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234136246374535169)
+
+## Day 19: March 2, 2020
+
+**Today's Progress:** Continued working on Basic Algorithm Scripting on [freeCodeCamp](https://www.freecodecamp.org). And I was only able to complete one of the algorithms:
+- Confirm the Ending
+
+**Thoughts:** I actually wrote down the pseudocode for the function I wanted to write and did a dry run on paper. This allowed me to assess the plausibility of the logic that I wanted to implement. I was reminded of this simplistic way of designing scripts when I was reading Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) (Page 16). I love how it really helps me figure out if I understood what the challenge entails and if my logic/function fulfils the specifications of the challenge.
+
+**Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234602087742398465)
