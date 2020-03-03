@@ -166,3 +166,13 @@
 **Thoughts:** I actually wrote down the pseudocode for the function I wanted to write and did a dry run on paper. This allowed me to assess the plausibility of the logic that I wanted to implement. I was reminded of this simplistic way of designing scripts when I was reading Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) (Page 16). I love how it really helps me figure out if I understood what the challenge entails and if my logic/function fulfils the specifications of the challenge.
 
 **Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234602087742398465)
+
+## Day 20: March 3, 2020
+
+**Today's Progress:** Wrote functions for the following challenges in Basic Algorithm Scripting on [freeCodeCamp](https://www.freecodecamp.org):
+- Repeat a String Repeat a String
+- Truncate a String
+
+**Thoughts:** Being able to instinctively write JavaScript functions based on what I have actually learnt, with only occasional references to my notes or a textbook, is a refreshing feeling. It gives me the confidence in my own abilities that I will need in order to tackle more complex problems in future.
+
+**Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234976502300602369)
