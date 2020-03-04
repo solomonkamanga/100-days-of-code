@@ -176,3 +176,15 @@
 **Thoughts:** Being able to instinctively write JavaScript functions based on what I have actually learnt, with only occasional references to my notes or a textbook, is a refreshing feeling. It gives me the confidence in my own abilities that I will need in order to tackle more complex problems in future.
 
 **Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234976502300602369)
+
+## Day 21: March 4, 2020
+
+**Today's Progress:** Still working on Basic Algorithm Scripting ([freeCodeCamp](https://www.freecodecamp.org)) and I wrote functions for the following challenges:
+- Finders Keepers
+- Boo who
+- Title Case a Sentence
+- Slice and Splice
+
+**Thoughts:** Even though coding after a long day at work is hard, I like how I it has become part of my daily routine and is no longer a burden I have to overcome at the end of each day. 
+
+**Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235323517241102336)
