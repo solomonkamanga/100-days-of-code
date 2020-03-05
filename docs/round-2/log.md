@@ -188,3 +188,15 @@
 **Thoughts:** Even though coding after a long day at work is hard, I like how I it has become part of my daily routine and is no longer a burden I have to overcome at the end of each day. 
 
 **Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235323517241102336)
+
+## Day 22: March 5, 2020
+
+**Today' Progress:** Finally completed Basic Algorithm Scripting on [freeCodeCamp](https://www.freecodecamp.org). Wrote functions for the following challenges: 
+- Falsy Bouncer
+- Where do I Belong
+- Mutations
+- Chunky Monkey
+
+**Thoughts:** Through working on the algorithm challenges from the Basic Algorithm Scripting section, I have realised that my understanding of JavaScript concepts has definitely improved. And I am much more comfortable when analysing problems, designing the required script and ultimately writing the code to solve the problem.
+
+**Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235693925978894337)
