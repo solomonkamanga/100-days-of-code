@@ -200,3 +200,11 @@
 **Thoughts:** Through working on the algorithm challenges from the Basic Algorithm Scripting section, I have realised that my understanding of JavaScript concepts has definitely improved. And I am much more comfortable when analysing problems, designing the required script and ultimately writing the code to solve the problem.
 
 **Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235693925978894337)
+
+## Day 23: March 7, 2020
+
+**Today's Progress:** Started Object Oriented Programming on [freeCodeCamp](https://www.freecodecamp.org) and completed the first few challenges.
+
+**Thoughts:** The issues with having a balance between life and my coding endeavours is always more evident during the weekend because I always struggle to find time to dedicate to the #100DaysOfCode challenge.
+
+**Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236300696078729216)
