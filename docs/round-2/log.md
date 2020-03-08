@@ -53,7 +53,7 @@
 
 **Today's Progress:** Completed exercises on switch statements (Basic JavaScript - [freeCodeCamp](https://www.freecodecamp.org)) and wrote a card counting function for Blackjack. 
 
-**Thoughts:** As I progress through Basic JavaScript, the exercises are getting more challenging. Especially the final exercises, which is a great test of whatever knowledge I would have acquired through the previous exercises and my overall understanding of JavaScript.
+**Thoughts:** As I progress through Basic JavaScript, the exercises are getting more challenging. Especially the final exercises, which is a great test of the knowledge I would have acquired through the previous exercises and my overall understanding of JavaScript.
 
 **Link to work:** [Day 6 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229899633629028352)
 
@@ -173,7 +173,7 @@
 - Repeat a String Repeat a String
 - Truncate a String
 
-**Thoughts:** Being able to instinctively write JavaScript functions based on what I have actually learnt, with only occasional references to my notes or a textbook, is a refreshing feeling. It gives me the confidence in my own abilities that I will need in order to tackle more complex problems in future.
+**Thoughts:** Being able to instinctively write JavaScript functions based on what I have actually learnt, with only occasional references to my notes or a textbook, is a refreshing feeling. It gives me the confidence to tackle more complex problems in future.
 
 **Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234976502300602369)
 
@@ -185,7 +185,7 @@
 - Title Case a Sentence
 - Slice and Splice
 
-**Thoughts:** Even though coding after a long day at work is hard, I like how I it has become part of my daily routine and is no longer a burden I have to overcome at the end of each day. 
+**Thoughts:** Even though coding after a long day is hard, I like how it has become part of my daily routine and is no longer a burden I have to overcome at the end of each day. 
 
 **Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235323517241102336)
 
@@ -205,6 +205,14 @@
 
 **Today's Progress:** Started Object Oriented Programming on [freeCodeCamp](https://www.freecodecamp.org) and completed the first few challenges.
 
-**Thoughts:** The issues with having a balance between life and my coding endeavours is always more evident during the weekend because I always struggle to find time to dedicate to the #100DaysOfCode challenge.
+**Thoughts:** The issues with having a balance between life and coding is always more evident during the weekend because I always struggle to find time to dedicate to the #100DaysOfCode challenge.
 
 **Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236300696078729216)
+
+## Day 24: March 8, 2020
+
+**Today' Progress:** Continued working on Object Oriented Programming from [freeCodeCamp](https://www.freecodecamp.org). Focused on defining, using and verifying constructors.
+
+**Thoughts:** Sometimes I genuinely do not understand the concepts being explained in some of the challenges so I just have to hope that: "Long term consistency beats short term intensity".
+
+**Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236652574822055936)
