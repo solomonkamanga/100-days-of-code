@@ -216,3 +216,15 @@
 **Thoughts:** Sometimes I genuinely do not understand the concepts being explained in some of the challenges so I just have to hope that: "Long term consistency beats short term intensity".
 
 **Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236652574822055936)
+
+## Day 25: March 9, 2020
+
+**Today's Progress:** Still working on Object Oriented Programming on [freeCodeCamp](https://www.freecodecamp.org). Today I worked on the following properties: 
+1. own
+2. prototype
+3. constructor
+Have now covered about half of the challenges in the section. 
+
+**Thoughts:** The concepts in object oriented programming are quite confusing but I am starting to understand a bit more. Not only by following the [freeCodeCamp](https://www.freecodecamp.org) curriculum, but also videos on LinkedIn Learning and doing some research on the internet. 
+
+**Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237135651897819137)
