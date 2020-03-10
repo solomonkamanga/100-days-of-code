@@ -228,3 +228,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** The concepts in object oriented programming are quite confusing but I am starting to understand a bit more. Not only by following the [freeCodeCamp](https://www.freecodecamp.org) curriculum, but also videos on LinkedIn Learning and doing some research on the internet. 
 
 **Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237135651897819137)
+
+## Day 26: March 10, 2020
+
+**Today's Progress:** Finally completed Object Oriented Programming on [freeCodeCamp](https://www.freecodecamp.org). Most of the challenges were focused on enhancing my understanding of constructors and prototypes.
+
+**Thoughts:** Majority of the concepts in Object Oriented Programming are not something that can be fully understood and learnt in one seating. These topics will have to be continually revisited in future, especially when I have to use them in code.
+
+**Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237484167639830534)
