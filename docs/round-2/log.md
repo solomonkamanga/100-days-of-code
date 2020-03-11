@@ -236,3 +236,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Majority of the concepts in Object Oriented Programming are not something that can be fully understood and learnt in one seating. These topics will have to be continually revisited in future, especially when I have to use them in code.
 
 **Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237484167639830534)
+
+## Day 27: March 11, 2020
+
+**Today's Progress:** Started Functional Programming on [freeCodeCamp](https://www.freecodecamp.org). And chapter seems to contain a substantial amount of theory.
+
+**Thoughts:** When it comes to learning about coding I have always preferred the practical aspects more than the theoretical elements. However, I fully understand that the theory forms the foundation to be able to write great code.
+
+**Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237867613973123072)
