@@ -244,3 +244,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** When it comes to learning about coding I have always preferred the practical aspects more than the theoretical elements. However, I fully understand that the theory forms the foundation to be able to write great code.
 
 **Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237867613973123072)
+
+## Day 28: March 13. 2020
+
+**Today's Progress:** Still working through the Functional Programming challenges on [freeCodeCamp](https://www.freecodecamp.org). And I actually got to use regular expressions(from R2D12 - R2D13) at work. It was just to improve search results on Visual Studio Code but it was still a great experience.
+
+**Thoughts:** One of the most interesting things about undertaking a challenge like #100DaysOfCode at this point in my career is that I actually have a chance to use any new skills in a professional skills. This gives me great practice and ensures that I am more likely to remember the concepts.
+
+**Link to work** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238583005071003650)
