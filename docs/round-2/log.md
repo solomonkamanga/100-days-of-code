@@ -252,3 +252,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** One of the most interesting things about undertaking a challenge like #100DaysOfCode at this point in my career is that I actually have a chance to use any new skills in a professional skills. This gives me great practice and ensures that I am more likely to remember the concepts.
 
 **Link to work** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238583005071003650)
+
+## Day 29: March 14, 2020
+
+**Today's Progress:** I've completed half of the challenges in Functional Programming on [freeCodeCamp](https://www.freecodecamp.org).
+
+**:** My productivity on weekends is starting to improve. I am getting very good at managing all distractions so that I can actually get some work done.
+
+**Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238857141567524865)
