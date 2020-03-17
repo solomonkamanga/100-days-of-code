@@ -260,3 +260,11 @@ Have now covered about half of the challenges in the section.
 **:** My productivity on weekends is starting to improve. I am getting very good at managing all distractions so that I can actually get some work done.
 
 **Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238857141567524865)
+
+## Day 30: March 17, 2020
+
+**Today's Progress:** Completed the remaining challenges from Functional Programming on [freeCodeCamp](https://www.freecodecamp.org), and now I am done with the section.
+
+**Thoughts:** I had to take a 2 day break just to refresh and be away from the challenge for a while, so that I can approach it with new energy. Functional programming has a lot of theory, which means I had to really work hard to ensure sure that I understood the concepts.
+
+**Link to work:** [Day 30 - freeCodecamp](https://twitter.com/Changamire_Musa/status/1240022009305800704)
