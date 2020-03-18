@@ -268,3 +268,14 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** I had to take a 2 day break just to refresh and be away from the challenge for a while, so that I can approach it with new energy. Functional programming has a lot of theory, which means I had to really work hard to ensure sure that I understood the concepts.
 
 **Link to work:** [Day 30 - freeCodecamp](https://twitter.com/Changamire_Musa/status/1240022009305800704)
+
+## Day 31: March 18, 2020
+
+**Today's Progress:** Started on Intermediate Algorithm Scripting on [freeCodeCamp](https://www.freecodecamp.org). And completed the following algorithms:
+- Sum All Numbers in a Range
+- Diff Two Arrays
+- Seek and Destroy
+
+**Thoughts:** I was honestly apprehensive about starting the Intermediate Algorithm Scripting section, because I was not confident in my understanding of the concepts that I covered in Functional Programming. However, I am quite pleased with my execution of solutions to the challenges so far. I am still referencing the [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/) whenever I am stuck but at least I do that to verify syntax instead of looking for solutions.
+
+**Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1240376526283169796)
