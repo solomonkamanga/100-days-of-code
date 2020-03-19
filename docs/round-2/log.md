@@ -279,3 +279,14 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** I was honestly apprehensive about starting the Intermediate Algorithm Scripting section, because I was not confident in my understanding of the concepts that I covered in Functional Programming. However, I am quite pleased with my execution of solutions to the challenges so far. I am still referencing the [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/) whenever I am stuck but at least I do that to verify syntax instead of looking for solutions.
 
 **Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1240376526283169796)
+
+## Day 32: March 19, 2020
+
+**Today' Progress:** Continued with Intermediate Algorithm Scripting on [freeCodeCamp](https://www.freecodecamp.org) and completed the following algorithms: 
+- Wherefore art thou
+- Spinal Tap Case
+- Pig Latin
+
+**Thoughts:** Despite the increasing difficulty in the challenges I am still comfortable with my execution of the solutions. I have also limited the challenges I attempt every day so that I can truly focus on understanding the concepts involved in solving each challenge.
+
+**Link to work:** [Day 32 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1240746232257171458)
