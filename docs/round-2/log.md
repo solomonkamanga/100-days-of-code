@@ -298,3 +298,18 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Some times being set in your ways can be very detrimental to your progress as a person. Today I tried to use a method I was sure would work and I spent about 45 minutes trying to figure out why it wasn't working, only to realize after some time that it was not suited for the particular purpose in my function. A quick Google search would have probably helped me come to this conclusion faster. But hopefully I don't make such mistakes in future.  
 
 **Link to work:** [Day 33 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241140637220646913)
+
+## Day 34: March 21, 2020
+
+**Today's Progress:** Another day working on Intermediate Algorithm Scripting from @freeCodeCamp. Wrote functions for:
+- DNA Pairing
+- Missing letters
+- Sorted Union
+- Convert HTML Entities
+- Sum All Odd Fibonacci Numbers
+- Sum All Primes
+- Smallest Common Multiple
+
+**Thoughts:** Today's coding session was characterised by doing lots of research on the concepts I have already so as to figure out how to implement the solutions, which really simplified the process. 
+
+**Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241492649410015233)
