@@ -301,7 +301,7 @@ Have now covered about half of the challenges in the section.
 
 ## Day 34: March 21, 2020
 
-**Today's Progress:** Another day working on Intermediate Algorithm Scripting from @freeCodeCamp. Wrote functions for:
+**Today's Progress:** Another day working on Intermediate Algorithm Scripting from [freeCodeCamp](https://www.freecodecamp.org). Wrote functions for:
 - DNA Pairing
 - Missing letters
 - Sorted Union
@@ -313,3 +313,18 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Today's coding session was characterised by doing lots of research on the concepts I have already so as to figure out how to implement the solutions, which really simplified the process. 
 
 **Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241492649410015233)
+
+### Day 35: March 22, 2020
+
+**Today's Progress:**  Finally completed Intermediate Algorithm Scripting ([freeCodeCamp](https://www.freecodecamp.org)), after writing functions for the following challenges
+- Drop it
+- Steamroller
+- Binary Agents
+- Everything Be True
+- Arguments Optional
+- Make A Person
+- Map the Debris
+
+**Thoughts:** Intermediate Algorithm Scripting was yet another challenge in my journey to improve my JavaScript skills, however I am glad I was able to implement solutions using a majority of the concepts I have learnt thus far.
+
+**Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241821444398632966)
