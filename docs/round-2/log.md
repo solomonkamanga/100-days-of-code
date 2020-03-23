@@ -328,3 +328,12 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Intermediate Algorithm Scripting was yet another challenge in my journey to improve my JavaScript skills, however I am glad I was able to implement solutions using a majority of the concepts I have learnt thus far.
 
 **Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241821444398632966)
+
+### Day 36: March 23, 2020
+
+**Today's Progress:** Completed the 1st project in the JavaScript Algorithms and Data Structures Projects ([freeCodeCamp](https://www.freecodecamp.org)): 
+- Palindrome Checker 
+
+**Thoughts:** This was the first project in the series of projects I have to complete, so it was fairly easy and it was another great test to gauge my understanding of JavaScript concepts.
+
+**Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242161912491769859)
