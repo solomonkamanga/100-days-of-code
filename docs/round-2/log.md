@@ -337,3 +337,13 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** This was the first project in the series of projects I have to complete, so it was fairly easy and it was another great test to gauge my understanding of JavaScript concepts.
 
 **Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242161912491769859)
+
+### Day 37: March 24, 2020
+
+**Today's Progress:** Continued working on the JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org). Wrote for functions for the following challenges: 
+- Roman Numeral Converter
+- Caesars Cipher
+
+**Thoughts:** Today's challenges were definitely a bit more complicated. But I realised that writing some pseudocode before jumping into writing the JavaScript functions really helped me understand the requirements the solutions had to fulfil.
+
+**Link to work:** [Day 37 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242563907979485184)
