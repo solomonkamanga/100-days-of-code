@@ -347,3 +347,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Today's challenges were definitely a bit more complicated. But I realised that writing some pseudocode before jumping into writing the JavaScript functions really helped me understand the requirements the solutions had to fulfil.
 
 **Link to work:** [Day 37 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242563907979485184)
+
+### Day 38: March 25, 2020
+
+**Today's Progress:** Still working on the JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org), and wrote a function for the Telephone Check challenge. 
+
+**Thoughts:** I feel like today's projects was not necessarily about testing one's understanding of JavaScript but about how you can derive meaning from a problem statement, find the requirements and implement a solution. So I think there was more emphasis on the process of developing code rather than the actual code.
+
+**Link to work:** [Day 38 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242923901874823168)
