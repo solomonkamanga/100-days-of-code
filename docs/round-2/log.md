@@ -355,3 +355,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** I feel like today's projects was not necessarily about testing one's understanding of JavaScript but about how you can derive meaning from a problem statement, find the requirements and implement a solution. So I think there was more emphasis on the process of developing code rather than the actual code.
 
 **Link to work:** [Day 38 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242923901874823168)
+
+### Day 39: March 26, 2020
+
+**Today's Progress:** Completed the final project (writing a cash register function) for JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org), so I am FINALLY done with the certification.
+
+**Thoughts:** I am glad to have completed the first goal of my #100DaysOfCode in such a timely manner while also learning a great deal about JavaScript. This leaves more time to try and  prepare for the PHP certification. 
+
+**Link to work:** [Day 39 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1243264296634716161)
