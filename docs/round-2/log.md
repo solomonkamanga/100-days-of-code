@@ -363,3 +363,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** I am glad to have completed the first goal of my #100DaysOfCode in such a timely manner while also learning a great deal about JavaScript. This leaves more time to try and  prepare for the PHP certification. 
 
 **Link to work:** [Day 39 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1243264296634716161)
+
+### Day 40: March 28, 2020
+
+**Today's Progress:** First day of PHP. Started off by following the PHP learning track on [LinkedIn Learning](https://www.linkedin.com/learning). And also solved a couple of exercises on [CodeSignal](https://www.codesignal.com).
+
+**Thoughts:** In order to fulfil my goal of preparing for the PHP certification I will be following the PHP Developer learning track on [LinkedIn Learning](https://www.linkedin.com/learning). And I will also be doing various other tasks to practice my coding skills such as doing exercises on [CodeSignal](https://www.codesignal.com) or [Exercism](https://www.exercism.io).
+
+**Link to work:** [Day 40 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1243976671788744704)
