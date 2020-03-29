@@ -14,7 +14,7 @@
 
 **Thoughts:** Re-learning foundational concepts in any programming language is always great because it assesses how well you understand them. So even though a lot of the exercises I did today were quite easy it was great revisiting these topics.
 
-**Link to work:** [Day 1 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1227749691636535297)
+**Link to work:** [Day 1 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1227749691636535297)
 
 ## Day 2: February 13, 2020
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** At the point none of the exercises are challenging as it is concepts that I already know but it is still great preparation to tackle more complex concepts and complete the projects.
 
-**Link to work:** [Day 2 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1228075161355718667)
+**Link to work:** [Day 2 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1228075161355718667)
 
 ## Day 3: February 15, 2020
 
@@ -30,7 +30,7 @@
 
 **Thoughts:** It was refreshing to revisit the declaration and manipulation of arrays, as it is a concept that no only applies to a lot of concepts going forward in the certification, but also as part of my actual job.
 
-**Link to work:** [Day 3 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1228710647602479110)
+**Link to work:** [Day 3 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1228710647602479110)
 
 
 ## Day 4: February 16, 2020
@@ -39,7 +39,7 @@
 
 **Thoughts:** Even though freeCodeCamp is a great resource, it does however only have the topics in concise and easily manageable modules so in order to learn something in its entirety I will have to invest time into other resources such as books, video tutorials and coding exercises.
 
-**Link to work:** [Day 4 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229117170585612295)
+**Link to work:** [Day 4 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1229117170585612295)
 
 ## Day 5: February 17, 2020
 
@@ -47,7 +47,7 @@
 
 **Thoughts:** May have to overhaul my schedule to find adequate time for #100DaysOfCode. Because at present most of my sessions are late at night and this means I get to bed to late. This ultimately means, I wake up tired and decrease my overall productivity for the day.
 
-**Link to work:** [Day 5 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229536859061202944)
+**Link to work:** [Day 5 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1229536859061202944)
 
 ## Day 6: February 18, 2020
 
@@ -55,7 +55,7 @@
 
 **Thoughts:** As I progress through Basic JavaScript, the exercises are getting more challenging. Especially the final exercises, which is a great test of the knowledge I would have acquired through the previous exercises and my overall understanding of JavaScript.
 
-**Link to work:** [Day 6 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1229899633629028352)
+**Link to work:** [Day 6 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1229899633629028352)
 
 ## Day 7: February 19, 2020
 
@@ -63,7 +63,7 @@
 
 **Thoughts:** Even though JavaScript Objects was a particularly challenging topic I greatly enjoyed today's session despite not completing the final exercise. I am happy that even after a particularly long day at work I still managed to find time for my coding session. And in future, there is a great possibility that I will have many such days, and as much as being dedicated to the challenge is quite important to me I also need to understand when to take breaks or stop for the day.
 
-**Link to work:** [Day 7 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230264655207071744)
+**Link to work:** [Day 7 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1230264655207071744)
 
 ## Day 8: February 20, 2020
 
@@ -71,7 +71,7 @@
 
 **Thoughts:** Working on this challenge has definitely helped and will continue to help me revisit the theory behind the programming concepts I use on a daily basis at work, which will definitely improve my understanding.
 
-**Link to work:** [Day 8 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230605543968038913)
+**Link to work:** [Day 8 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1230605543968038913)
 
 ## Day 9: February 21, 2020
 
@@ -79,7 +79,7 @@
 
 **Thoughts:** Even though I have completed Basic JavaScript, a lot of the topics covered in this section are quite foundational to having a great understanding of JavaScript, so I will have to keep revisiting them as I continue through the certification. This will ensure that I have a great grasp of these concepts and can use them effectively.
 
-**Link to work:** [Day 9 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1230964000567054338)
+**Link to work:** [Day 9 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1230964000567054338)
 
 ## Day 10: February 22, 2020
 
@@ -87,7 +87,7 @@
 
 **Thoughts:** Going into this #100DaysOfCode challenge I was quite unsure I would be able to commit time on the weekend for coding sessions but I am quite happy with my progress so far. Because weekends are usually the time I rest after a week at work and I am not always motivated to do any work.
 
-**Link to work:** [Day 10 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231336589365858304)
+**Link to work:** [Day 10 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1231336589365858304)
 
 ## Day 11: February 23, 2020
 
@@ -95,7 +95,7 @@
 
 **Thoughts:** My introduction to ES6 concepts was not as smooth as I had hoped. Some of the concepts have quite a steep learning curve and I had to re-evaluate my learning process. The re-evaluation was just to ensure that my main focus is not retaining copious amounts of information but understanding the ES6 concepts enough to be able to use them when writing actual code. 
 
-**Link to work:** [Day 11 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1231707063790768129)
+**Link to work:** [Day 11 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1231707063790768129)
 
 ## Day 12: February 24, 2020
 
@@ -103,7 +103,7 @@
 
 **Thoughts:** Regular expressions are an interesting concept and I cannot wait to see the various use cases I can use them when writing code. However, today was somewhat a difficult day because I felt overwhelmingly tired and at times it seemed as if I was doing everything on autopilot, and I was not truly engaged in what I was doing. I think one of the ways I can fix this is by taking more frequent breaks during coding sessions.
 
-**Link to work:** [Day 12 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232002181894721536)
+**Link to work:** [Day 12 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1232002181894721536)
 
 ## Day 13: February 25, 2020
 
@@ -111,7 +111,7 @@
 
 **Thoughts:** Writing short notes during my coding or learning sessions means I take longer to complete a particular task but I believe it will definitely be worth it in the long term. Because it really helps with my understanding and retention of the concepts that I am learning. 
 
-**Link to work:** [Day 13 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232407945566134273)
+**Link to work:** [Day 13 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1232407945566134273)
 
 ## Day 14: February 26, 2020
 
@@ -119,7 +119,7 @@
 
 **Thoughts:** After about 2 weeks of working on this challenge I am happy with the results so far. Because I believe I am learning quite a lot and improving my skills in a significant way. However, there are still aspects I can improve on such as doing more practical exercises and being more consistent with my note taking during sessions.
 
-**Link to work:** [Day 14 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1232751938208436225)
+**Link to work:** [Day 14 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1232751938208436225)
 
 ## Day 15: February 27, 2020
 
@@ -127,7 +127,7 @@
 
 **Thoughts:** Coupling the practical aspects of following the freeCodeCamp curriculum and my own will work to enhance the knowledge that I will have at the end of the #100DaysOfCode challenge.
 
-**Link to work:** [Day 15 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233136574344441857)
+**Link to work:** [Day 15 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1233136574344441857)
 
 ## Day 16: February 28, 2020
 
@@ -135,7 +135,7 @@
 
 **Thoughts:** Apart from the actual coding, I also read a bit more of Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) book and watched some videos in the JavaScript Essentials Training course from [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training-3/). Also finally made an schedule using [My Study Life](https://www.mystudylife.com/). It is a platform that has a web app and a mobile app that allows me keep track of all my tasks.
 
-**Link to work:** [Day 16 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233513792476241921)
+**Link to work:** [Day 16 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1233513792476241921)
 
 ## Day 17: February 29, 2020
 
@@ -143,7 +143,7 @@
 
 **Thoughts:** Today was a pretty hard to session to get through because I felt overwhelmingly tired but I just had to push through because I was genuinely enjoying what I was learning despite the fatigue.
 
-**Link to work:** [Day 17 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1233791717494657025)
+**Link to work:** [Day 17 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1233791717494657025)
 
 ## Day 18: March 1, 2020
 
@@ -156,7 +156,7 @@
 
 **Thoughts:** Overall it was a very productive weekend. It was not all entirely focused on coding but also learning new concepts through following courses on LinkedIn, reading books and making notes to gauge my understanding of the material.
 
-**Link to work:** [Day 18 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234136246374535169)
+**Link to work:** [Day 18 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1234136246374535169)
 
 ## Day 19: March 2, 2020
 
@@ -165,7 +165,7 @@
 
 **Thoughts:** I actually wrote down the pseudocode for the function I wanted to write and did a dry run on paper. This allowed me to assess the plausibility of the logic that I wanted to implement. I was reminded of this simplistic way of designing scripts when I was reading Jon Duckett's [JavaScript & JQuery](http://www.javascriptbook.com) (Page 16). I love how it really helps me figure out if I understood what the challenge entails and if my logic/function fulfils the specifications of the challenge.
 
-**Link to work:** [Day 19 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234602087742398465)
+**Link to work:** [Day 19 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1234602087742398465)
 
 ## Day 20: March 3, 2020
 
@@ -175,7 +175,7 @@
 
 **Thoughts:** Being able to instinctively write JavaScript functions based on what I have actually learnt, with only occasional references to my notes or a textbook, is a refreshing feeling. It gives me the confidence to tackle more complex problems in future.
 
-**Link to work:** [Day 20 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1234976502300602369)
+**Link to work:** [Day 20 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1234976502300602369)
 
 ## Day 21: March 4, 2020
 
@@ -187,7 +187,7 @@
 
 **Thoughts:** Even though coding after a long day is hard, I like how it has become part of my daily routine and is no longer a burden I have to overcome at the end of each day. 
 
-**Link to work:** [Day 21 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235323517241102336)
+**Link to work:** [Day 21 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1235323517241102336)
 
 ## Day 22: March 5, 2020
 
@@ -199,7 +199,7 @@
 
 **Thoughts:** Through working on the algorithm challenges from the Basic Algorithm Scripting section, I have realised that my understanding of JavaScript concepts has definitely improved. And I am much more comfortable when analysing problems, designing the required script and ultimately writing the code to solve the problem.
 
-**Link to work:** [Day 22 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1235693925978894337)
+**Link to work:** [Day 22 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1235693925978894337)
 
 ## Day 23: March 7, 2020
 
@@ -207,7 +207,7 @@
 
 **Thoughts:** The issues with having a balance between life and coding is always more evident during the weekend because I always struggle to find time to dedicate to the #100DaysOfCode challenge.
 
-**Link to work:** [Day 23 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236300696078729216)
+**Link to work:** [Day 23 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1236300696078729216)
 
 ## Day 24: March 8, 2020
 
@@ -215,7 +215,7 @@
 
 **Thoughts:** Sometimes I genuinely do not understand the concepts being explained in some of the challenges so I just have to hope that: "Long term consistency beats short term intensity".
 
-**Link to work:** [Day 24 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1236652574822055936)
+**Link to work:** [Day 24 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1236652574822055936)
 
 ## Day 25: March 9, 2020
 
@@ -227,7 +227,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** The concepts in object oriented programming are quite confusing but I am starting to understand a bit more. Not only by following the [freeCodeCamp](https://www.freecodecamp.org) curriculum, but also videos on LinkedIn Learning and doing some research on the internet. 
 
-**Link to work:** [Day 25 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237135651897819137)
+**Link to work:** [Day 25 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1237135651897819137)
 
 ## Day 26: March 10, 2020
 
@@ -235,7 +235,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Majority of the concepts in Object Oriented Programming are not something that can be fully understood and learnt in one seating. These topics will have to be continually revisited in future, especially when I have to use them in code.
 
-**Link to work:** [Day 26 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237484167639830534)
+**Link to work:** [Day 26 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1237484167639830534)
 
 ## Day 27: March 11, 2020
 
@@ -243,7 +243,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** When it comes to learning about coding I have always preferred the practical aspects more than the theoretical elements. However, I fully understand that the theory forms the foundation to be able to write great code.
 
-**Link to work:** [Day 27 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1237867613973123072)
+**Link to work:** [Day 27 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1237867613973123072)
 
 ## Day 28: March 13. 2020
 
@@ -251,7 +251,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** One of the most interesting things about undertaking a challenge like #100DaysOfCode at this point in my career is that I actually have a chance to use any new skills in a professional skills. This gives me great practice and ensures that I am more likely to remember the concepts.
 
-**Link to work** [Day 28 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238583005071003650)
+**Link to work** [Day 28 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1238583005071003650)
 
 ## Day 29: March 14, 2020
 
@@ -259,7 +259,7 @@ Have now covered about half of the challenges in the section.
 
 **:** My productivity on weekends is starting to improve. I am getting very good at managing all distractions so that I can actually get some work done.
 
-**Link to work:** [Day 29 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1238857141567524865)
+**Link to work:** [Day 29 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1238857141567524865)
 
 ## Day 30: March 17, 2020
 
@@ -278,7 +278,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** I was honestly apprehensive about starting the Intermediate Algorithm Scripting section, because I was not confident in my understanding of the concepts that I covered in Functional Programming. However, I am quite pleased with my execution of solutions to the challenges so far. I am still referencing the [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/) whenever I am stuck but at least I do that to verify syntax instead of looking for solutions.
 
-**Link to work:** [Day 31 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1240376526283169796)
+**Link to work:** [Day 31 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1240376526283169796)
 
 ## Day 32: March 19, 2020
 
@@ -289,7 +289,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Despite the increasing difficulty in the challenges I am still comfortable with my execution of the solutions. I have also limited the challenges I attempt every day so that I can truly focus on understanding the concepts involved in solving each challenge.
 
-**Link to work:** [Day 32 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1240746232257171458)
+**Link to work:** [Day 32 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1240746232257171458)
 
 ## Day 33: March 20, 2020
 
@@ -297,7 +297,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Some times being set in your ways can be very detrimental to your progress as a person. Today I tried to use a method I was sure would work and I spent about 45 minutes trying to figure out why it wasn't working, only to realize after some time that it was not suited for the particular purpose in my function. A quick Google search would have probably helped me come to this conclusion faster. But hopefully I don't make such mistakes in future.  
 
-**Link to work:** [Day 33 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241140637220646913)
+**Link to work:** [Day 33 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1241140637220646913)
 
 ## Day 34: March 21, 2020
 
@@ -312,7 +312,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Today's coding session was characterised by doing lots of research on the concepts I have already so as to figure out how to implement the solutions, which really simplified the process. 
 
-**Link to work:** [Day 34 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241492649410015233)
+**Link to work:** [Day 34 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1241492649410015233)
 
 ### Day 35: March 22, 2020
 
@@ -327,7 +327,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Intermediate Algorithm Scripting was yet another challenge in my journey to improve my JavaScript skills, however I am glad I was able to implement solutions using a majority of the concepts I have learnt thus far.
 
-**Link to work:** [Day 35 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1241821444398632966)
+**Link to work:** [Day 35 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1241821444398632966)
 
 ### Day 36: March 23, 2020
 
@@ -336,7 +336,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** This was the first project in the series of projects I have to complete, so it was fairly easy and it was another great test to gauge my understanding of JavaScript concepts.
 
-**Link to work:** [Day 36 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242161912491769859)
+**Link to work:** [Day 36 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242161912491769859)
 
 ### Day 37: March 24, 2020
 
@@ -346,7 +346,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** Today's challenges were definitely a bit more complicated. But I realised that writing some pseudocode before jumping into writing the JavaScript functions really helped me understand the requirements the solutions had to fulfil.
 
-**Link to work:** [Day 37 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242563907979485184)
+**Link to work:** [Day 37 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242563907979485184)
 
 ### Day 38: March 25, 2020
 
@@ -354,7 +354,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** I feel like today's projects was not necessarily about testing one's understanding of JavaScript but about how you can derive meaning from a problem statement, find the requirements and implement a solution. So I think there was more emphasis on the process of developing code rather than the actual code.
 
-**Link to work:** [Day 38 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1242923901874823168)
+**Link to work:** [Day 38 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242923901874823168)
 
 ### Day 39: March 26, 2020
 
@@ -362,7 +362,7 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** I am glad to have completed the first goal of my #100DaysOfCode in such a timely manner while also learning a great deal about JavaScript. This leaves more time to try and  prepare for the PHP certification. 
 
-**Link to work:** [Day 39 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1243264296634716161)
+**Link to work:** [Day 39 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1243264296634716161)
 
 ### Day 40: March 28, 2020
 
@@ -370,4 +370,12 @@ Have now covered about half of the challenges in the section.
 
 **Thoughts:** In order to fulfil my goal of preparing for the PHP certification I will be following the PHP Developer learning track on [LinkedIn Learning](https://www.linkedin.com/learning). And I will also be doing various other tasks to practice my coding skills such as doing exercises on [CodeSignal](https://www.codesignal.com) or [Exercism](https://www.exercism.io).
 
-**Link to work:** [Day 40 - freeCodeCamp](https://twitter.com/Changamire_Musa/status/1243976671788744704)
+**Link to work:** [Day 40 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1243976671788744704)
+
+### Day 41: March 29, 2020
+
+**Today's Progress:** Continued working on the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). I'm about halfway through Algorithms (1st course). Decided to use JavaScript to implement linked lists, stacks & queues and hash tables instead of Python. 
+
+**Thoughts:** In order to keep working on my coding skills I will be using JavaScript to implement the coding examples in the [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms) course, instead of using Python.
+
+**Link to work:** [Day 41 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1244342511654637568)
