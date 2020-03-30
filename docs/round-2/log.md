@@ -379,3 +379,11 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** In order to keep working on my coding skills I will be using JavaScript to implement the coding examples in the [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms) course, instead of using Python.
 
 **Link to work:** [Day 41 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1244342511654637568)
+
+### Day 42: March 30, 2020
+
+**Today's Progress:** Still working on the Algorithms course in the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). Implemented the data structures (linked list, stacks and queues) using JavaScript. The only one left is hash tables. And I put the code on GitHub: [Common Data Structures](https://github.com/solomonkamanga/common-data-structures).
+
+**Thoughts:** Implementing the data structures in JavaScript was more challenging than I thought it would be even though Python and JavaScript share some syntactical similarities. But after some research I figured out a way to show the same functionality illustrated in the course.
+
+**Link to work:** Day 42 - PHP Developer Track [Tweet](https://twitter.com/Changamire_Musa/status/1244744132326830084) | [Common Data Structures Repository](https://github.com/solomonkamanga/common-data-structures)
