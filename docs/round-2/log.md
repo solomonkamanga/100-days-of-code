@@ -384,6 +384,19 @@ Have now covered about half of the challenges in the section.
 
 **Today's Progress:** Still working on the Algorithms course in the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). Implemented the data structures (linked list, stacks and queues) using JavaScript. The only one left is hash tables. And I put the code on GitHub: [Common Data Structures](https://github.com/solomonkamanga/common-data-structures).
 
-**Thoughts:** Implementing the data structures in JavaScript was more challenging than I thought it would be even though Python and JavaScript share some syntactical similarities. But after some research I figured out a way to show the same functionality illustrated in the course.
+**Thoughts:** Implementing the data structures in JavaScript was more challenging than I thought it would be even though Python and JavaScript share some syntactical similarities. But after some research I figured out a way to show the same functionality illustrated in the course. The scripts for the data structures can be found in this repository: [Common Data Structures](https://github.com/solomonkamanga/common-data-structures)
 
-**Link to work:** Day 42 - PHP Developer Track [Tweet](https://twitter.com/Changamire_Musa/status/1244744132326830084) | [Common Data Structures Repository](https://github.com/solomonkamanga/common-data-structures)
+**Link to work:** [Day 42 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1244744132326830084)
+
+### Day 43: March 31, 2020
+
+**Today's Progress:** Finished working on implementing a hash table using JavaScript. And also finished the Recursion section in the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
+
+**Thoughts:** Writing the script for hash tables using JavaScript really helped me understand how they are implemented and used. This script can be found in the following repository: 
+- [Common Data Structures](https://github.com/solomonkamanga/common-data-structures)
+
+During the recursion section of the course, I implemented the mathematical operations using JavaScript which can be found in the following gists:
+- [Countdown](https://gist.github.com/solomonkamanga/4e8eb715f27eac1a75c838ba0f2e298d)
+- [Power and Factorial Calculation](https://gist.github.com/solomonkamanga/da9c9939e389bb6c1a951def876ee9fb)
+
+**Link to work:** [Day 43 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245078992694267904)
