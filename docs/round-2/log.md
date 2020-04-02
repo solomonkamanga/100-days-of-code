@@ -400,3 +400,14 @@ During the recursion section of the course, I implemented the mathematical opera
 - [Power and Factorial Calculation](https://gist.github.com/solomonkamanga/da9c9939e389bb6c1a951def876ee9fb)
 
 **Link to work:** [Day 43 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245078992694267904)
+
+### Day 44: April 2, 2020
+
+**Today's Progress:** Finished the Sorting Data section of the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). Which included implementing scripts for the following algorithms:
+- Bubble Sort
+- Merge Sort
+- Quick Sort
+
+**Thoughts:** I am almost at the very end of the course and it is definitely taking longer than I anticipated. However, this is not necessarily because I am taking my time to ensure that I have understood all of the concepts being taught, so as to further enhance the knowledge I already have about JavaScript and Algorithms.
+
+**Link to work:** [Day 44 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245824508696637441)
