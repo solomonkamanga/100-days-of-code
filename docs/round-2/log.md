@@ -411,3 +411,14 @@ During the recursion section of the course, I implemented the mathematical opera
 **Thoughts:** I am almost at the very end of the course and it is definitely taking longer than I anticipated. However, this is not necessarily because I am taking my time to ensure that I have understood all of the concepts being taught, so as to further enhance the knowledge I already have about JavaScript and Algorithms.
 
 **Link to work:** [Day 44 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245824508696637441)
+
+### Day 45: April 3, 2020
+
+**Today's Progress:** Completed the the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). But I'm still working on  implementing scripts for:
+- Unique filtering with hash table
+- Value counting with hash table
+- Finding maximum value with recursion
+
+**Thoughts:** Even though I have officially completed the course I have not written scripts for the algorithms in the final section as the problems are proving to be quite challenging. I will have to do some further research and try to complete them in my next coding session.
+
+**Link to work:** [Day 45 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246210562117246976)
