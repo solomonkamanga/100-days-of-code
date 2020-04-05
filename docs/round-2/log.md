@@ -395,9 +395,8 @@ Have now covered about half of the challenges in the section.
 **Thoughts:** Writing the script for hash tables using JavaScript really helped me understand how they are implemented and used. This script can be found in the following repository: 
 - [Common Data Structures](https://github.com/solomonkamanga/common-data-structures)
 
-During the recursion section of the course, I implemented the mathematical operations using JavaScript which can be found in the following gists:
-- [Countdown](https://gist.github.com/solomonkamanga/4e8eb715f27eac1a75c838ba0f2e298d)
-- [Power and Factorial Calculation](https://gist.github.com/solomonkamanga/da9c9939e389bb6c1a951def876ee9fb)
+During the recursion section of the course, I implemented the mathematical operations using JavaScript which can be found in the following repository:
+- [Common Algorithms](https://github.com/solomonkamanga/common-algorithms)
 
 **Link to work:** [Day 43 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245078992694267904)
 
@@ -407,6 +406,8 @@ During the recursion section of the course, I implemented the mathematical opera
 - Bubble Sort
 - Merge Sort
 - Quick Sort
+
+Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorithms)
 
 **Thoughts:** I am almost at the very end of the course and it is definitely taking longer than I anticipated. However, this is not necessarily because I am taking my time to ensure that I have understood all of the concepts being taught, so as to further enhance the knowledge I already have about JavaScript and Algorithms.
 
@@ -422,3 +423,14 @@ During the recursion section of the course, I implemented the mathematical opera
 **Thoughts:** Even though I have officially completed the course I have not written scripts for the algorithms in the final section as the problems are proving to be quite challenging. I will have to do some further research and try to complete them in my next coding session.
 
 **Link to work:** [Day 45 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246210562117246976)
+
+### Day 46: April 5, 2020
+
+**Today's Progress:** Finally got around to completing the scripts for the following algorithms: 
+- Unique filtering with hash table
+- Value counting with hash table
+- Find max value recursively
+
+**Thoughts:** After some research on the internet, I was able to write the scripts that implement the same functionality as the Python scripts from the Algorithms. These algorithms are all available in this repository [Common Algorithms](https://github.com/solomonkamanga/common-algorithms).
+
+**Link to work:** [Day 46 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246896143730163717)
