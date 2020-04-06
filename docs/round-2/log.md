@@ -434,3 +434,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** After some research on the internet, I was able to write the scripts that implement the same functionality as the Python scripts from the Algorithms. These algorithms are all available in this repository [Common Algorithms](https://github.com/solomonkamanga/common-algorithms).
 
 **Link to work:** [Day 46 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246896143730163717)
+
+### Day 47: April 6, 2020
+
+**Today's Progress:** Started on the actual PHP section of the PHP Developer Track([LinkedIn Learning](https://www.linkedin.com/learning)). Focused mostly on the basics.
+
+**Thoughts:** Mostly covered the foundational elements of PHP which I suppose, over the next few new topics, will be a refresher of concepts that I already know or use on a daily basis.
+
+**Link to work:** [Day 47 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247275982207307783)
