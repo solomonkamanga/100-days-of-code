@@ -442,3 +442,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** Mostly covered the foundational elements of PHP which I suppose, over the next few new topics, will be a refresher of concepts that I already know or use on a daily basis.
 
 **Link to work:** [Day 47 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247275982207307783)
+
+### Day 48: April 7, 2020
+
+**Today's Progress:** Completed the PHP Basics section of the Learning PHP course( PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
+
+**Thoughts:** Always great to revisit the basics of a topic you already know about to gauge your overall understanding of the concepts being discussed.
+
+**Link to work:** [Day 48 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247623899858243586)
