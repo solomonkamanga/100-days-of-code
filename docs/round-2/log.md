@@ -445,8 +445,16 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 ### Day 48: April 7, 2020
 
-**Today's Progress:** Completed the PHP Basics section of the Learning PHP course( PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
+**Today's Progress:** Completed the PHP Basics section of the Learning PHP course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
 
 **Thoughts:** Always great to revisit the basics of a topic you already know about to gauge your overall understanding of the concepts being discussed.
 
 **Link to work:** [Day 48 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247623899858243586)
+
+### Day 49: April 11, 2020
+
+**Today's Progress:** Finally back at it again after a 3 day break. Continued with the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning) and completed the chapter on Conditional Statements.
+
+**Thoughts:** Due to work and other commitments I was not able to find time for the challenge. However I finally managed to set aside some time and continue with the PHP Developer Track - s[LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Link to work:** [Day 49 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249065700246933505)
