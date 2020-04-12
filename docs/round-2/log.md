@@ -458,3 +458,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** Due to work and other commitments I was not able to find time for the challenge. However I finally managed to set aside some time and continue with the PHP Developer Track - s[LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Link to work:** [Day 49 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249065700246933505)
+
+### Day 50: April 12, 2020
+
+**Today's Progress:** R2D50: Completed the chapter on Doing Calculations with PHP from the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Today I am officially halfway through with #100DaysOfCode, and besides any challenges that I have faced I am quite satisfied with progress so far.
+
+**Link to work:** [Day 50 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249417383128817666)
