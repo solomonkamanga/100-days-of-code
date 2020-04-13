@@ -461,8 +461,16 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 ### Day 50: April 12, 2020
 
-**Today's Progress:** R2D50: Completed the chapter on Doing Calculations with PHP from the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). 
+**Today's Progress:** Completed the chapter on Doing Calculations with PHP from the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). 
 
 **Thoughts:** Today I am officially halfway through with #100DaysOfCode, and besides any challenges that I have faced I am quite satisfied with progress so far.
 
 **Link to work:** [Day 50 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249417383128817666)
+
+### Day 51: April 13, 2020
+
+**Today's Progress:** Completed chapter on Using Loops for Repetitive Actions (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)).
+
+**Thoughts:** Still amazes me how certain make more sense when you have a better understanding of the theoretical concepts. I believe that is going to be the common theme in the next few chapters of this course.
+
+**Link to work:** [Day 51 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249749252202475520)
