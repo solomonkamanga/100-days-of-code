@@ -474,3 +474,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** Still amazes me how certain make more sense when you have a better understanding of the theoretical concepts. I believe that is going to be the common theme in the next few chapters of this course.
 
 **Link to work:** [Day 51 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249749252202475520)
+
+### Day 52: April 15, 2020
+
+**Today's Progress:** Started the Functions & Objects chapter (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). Covered built-in functions, specifically focused on the most common ones. Also reading Learning PHP, MySQL & JavaScript by Robin Nixon.
+
+**Thoughts:** Over the past few topics I have been making reading the book a prominent part of my process while working on this course. It really helps in my understanding of the concepts.
+
+**Link to work:** [Day 52 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1250549236363640833)
