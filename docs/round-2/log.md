@@ -482,3 +482,14 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** Over the past few topics I have been making reading the book a prominent part of my process while working on this course. It really helps in my understanding of the concepts.
 
 **Link to work:** [Day 52 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1250549236363640833)
+
+### Day 53: April 19, 2020
+
+**Today's Progress:** Completed the Functions & Objects chapter (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)).
+
+**Thoughts:** My biggest issue has always been procrastination and a general lack of consistency in my commitment to the 100 days of code challenge. And I hope that over the next few weeks I can improve on this, so that I can complete this challenge, not only for the sake of just completing it but having gained valuable knowledge that I can use in future. 
+ 
+**Link to work:** [Day 53 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1251978357396443136)
+
+
+ 
