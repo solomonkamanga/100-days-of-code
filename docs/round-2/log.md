@@ -491,5 +491,10 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 53 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1251978357396443136)
 
+ ### Day 54: April 22, 2020
 
+**Today's Progress:** Worked on the Including External Files chapter in the PHP Developer Track from [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** It is getting harder to commit to the 100 days of code challenge. After work, I struggle to find the time or the energy to sit down for coding session or to follow along with a tutorial. Despite my struggles I am determined to get back on track.
  
+**Link to work:** [Day 54 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1253093269032046594)
