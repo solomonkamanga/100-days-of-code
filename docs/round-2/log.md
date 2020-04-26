@@ -498,3 +498,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** It is getting harder to commit to the 100 days of code challenge. After work, I struggle to find the time or the energy to sit down for coding session or to follow along with a tutorial. Despite my struggles I am determined to get back on track.
  
 **Link to work:** [Day 54 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1253093269032046594)
+
+ ### Day 55: April 26, 2020
+
+**Today's Progress:** Completed the Handling Errors chapter in the PHP Developer Track [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Over the past few days I have come to the realization that I need to be satisfied with any and all progress that I make even if it is not a big step. Because I cannot always find time to code outside of work I need to be happy when I do.
+ 
+**Link to work:** [Day 55 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1254505016481775616)
