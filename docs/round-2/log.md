@@ -506,3 +506,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** Over the past few days I have come to the realization that I need to be satisfied with any and all progress that I make even if it is not a big step. Because I cannot always find time to code outside of work I need to be happy when I do.
  
 **Link to work:** [Day 55 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1254505016481775616)
+
+ ### Day 56: May 3, 2020
+
+**Today's Progress:** Spend the day working on the "Emailing the Contents of an Online Form" chapter. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** The first coding session after taking a break to recharge because I was starting to feel a bit burned out. However, today was a good session as I continued to work on the introductory PHP course.
+ 
+**Link to work:** [Day 56 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1256699667259285505)
