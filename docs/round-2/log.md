@@ -491,7 +491,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 53 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1251978357396443136)
 
- ### Day 54: April 22, 2020
+### Day 54: April 22, 2020
 
 **Today's Progress:** Worked on the Including External Files chapter in the PHP Developer Track from [LinkedIn Learning](https://www.linkedin.com/learning).
 
@@ -499,7 +499,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 54 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1253093269032046594)
 
- ### Day 55: April 26, 2020
+### Day 55: April 26, 2020
 
 **Today's Progress:** Completed the Handling Errors chapter in the PHP Developer Track [LinkedIn Learning](https://www.linkedin.com/learning).
 
@@ -507,10 +507,18 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 55 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1254505016481775616)
 
- ### Day 56: May 3, 2020
+### Day 56: May 3, 2020
 
 **Today's Progress:** Spend the day working on the "Emailing the Contents of an Online Form" chapter. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
 
 **Thoughts:** The first coding session after taking a break to recharge because I was starting to feel a bit burned out. However, today was a good session as I continued to work on the introductory PHP course.
  
 **Link to work:** [Day 56 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1256699667259285505)
+
+### Day 57: May 4, 2020
+
+**Today's Progress:** Finished the "Developing with Multiple-Choice Form Fields" chapter. And with that, I've finally completed the Learning PHP course. Next course is PHP Essential Training. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** This course was a terrific primer for all the other work I am going to be doing in this PHP Developer Track. It really gave me a great understanding of the core concepts that I need to know.
+ 
+**Link to work:** [Day 57 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1257056154439606272)
