@@ -314,7 +314,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 34 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1241492649410015233)
 
-### Day 35: March 22, 2020
+## Day 35: March 22, 2020
 
 **Today's Progress:**  Finally completed Intermediate Algorithm Scripting ([freeCodeCamp](https://www.freecodecamp.org)), after writing functions for the following challenges
 - Drop it
@@ -329,7 +329,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 35 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1241821444398632966)
 
-### Day 36: March 23, 2020
+## Day 36: March 23, 2020
 
 **Today's Progress:** Completed the 1st project in the JavaScript Algorithms and Data Structures Projects ([freeCodeCamp](https://www.freecodecamp.org)): 
 - Palindrome Checker 
@@ -338,7 +338,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 36 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242161912491769859)
 
-### Day 37: March 24, 2020
+## Day 37: March 24, 2020
 
 **Today's Progress:** Continued working on the JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org). Wrote for functions for the following challenges: 
 - Roman Numeral Converter
@@ -348,7 +348,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 37 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242563907979485184)
 
-### Day 38: March 25, 2020
+## Day 38: March 25, 2020
 
 **Today's Progress:** Still working on the JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org), and wrote a function for the Telephone Check challenge. 
 
@@ -356,7 +356,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 38 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1242923901874823168)
 
-### Day 39: March 26, 2020
+## Day 39: March 26, 2020
 
 **Today's Progress:** Completed the final project (writing a cash register function) for JavaScript Algorithms and Data Structures Projects from [freeCodeCamp](https://www.freecodecamp.org), so I am FINALLY done with the certification.
 
@@ -364,7 +364,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 39 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1243264296634716161)
 
-### Day 40: March 28, 2020
+## Day 40: March 28, 2020
 
 **Today's Progress:** First day of PHP. Started off by following the PHP learning track on [LinkedIn Learning](https://www.linkedin.com/learning). And also solved a couple of exercises on [CodeSignal](https://www.codesignal.com).
 
@@ -372,7 +372,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 40 - JavaScript Algorithms and Data Structures](https://twitter.com/Changamire_Musa/status/1243976671788744704)
 
-### Day 41: March 29, 2020
+## Day 41: March 29, 2020
 
 **Today's Progress:** Continued working on the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). I'm about halfway through Algorithms (1st course). Decided to use JavaScript to implement linked lists, stacks & queues and hash tables instead of Python. 
 
@@ -380,7 +380,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 41 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1244342511654637568)
 
-### Day 42: March 30, 2020
+## Day 42: March 30, 2020
 
 **Today's Progress:** Still working on the Algorithms course in the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). Implemented the data structures (linked list, stacks and queues) using JavaScript. The only one left is hash tables. And I put the code on GitHub: [Common Data Structures](https://github.com/solomonkamanga/common-data-structures).
 
@@ -388,7 +388,7 @@ Have now covered about half of the challenges in the section.
 
 **Link to work:** [Day 42 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1244744132326830084)
 
-### Day 43: March 31, 2020
+## Day 43: March 31, 2020
 
 **Today's Progress:** Finished working on implementing a hash table using JavaScript. And also finished the Recursion section in the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
 
@@ -400,7 +400,7 @@ During the recursion section of the course, I implemented the mathematical opera
 
 **Link to work:** [Day 43 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245078992694267904)
 
-### Day 44: April 2, 2020
+## Day 44: April 2, 2020
 
 **Today's Progress:** Finished the Sorting Data section of the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). Which included implementing scripts for the following algorithms:
 - Bubble Sort
@@ -413,7 +413,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 44 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1245824508696637441)
 
-### Day 45: April 3, 2020
+## Day 45: April 3, 2020
 
 **Today's Progress:** Completed the the Algorithms course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). But I'm still working on  implementing scripts for:
 - Unique filtering with hash table
@@ -424,7 +424,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 45 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246210562117246976)
 
-### Day 46: April 5, 2020
+## Day 46: April 5, 2020
 
 **Today's Progress:** Finally got around to completing the scripts for the following algorithms: 
 - Unique filtering with hash table
@@ -435,7 +435,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 46 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1246896143730163717)
 
-### Day 47: April 6, 2020
+## Day 47: April 6, 2020
 
 **Today's Progress:** Started on the actual PHP section of the PHP Developer Track([LinkedIn Learning](https://www.linkedin.com/learning)). Focused mostly on the basics.
 
@@ -443,7 +443,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 47 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247275982207307783)
 
-### Day 48: April 7, 2020
+## Day 48: April 7, 2020
 
 **Today's Progress:** Completed the PHP Basics section of the Learning PHP course (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). 
 
@@ -451,7 +451,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 48 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1247623899858243586)
 
-### Day 49: April 11, 2020
+## Day 49: April 11, 2020
 
 **Today's Progress:** Finally back at it again after a 3 day break. Continued with the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning) and completed the chapter on Conditional Statements.
 
@@ -459,7 +459,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 49 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249065700246933505)
 
-### Day 50: April 12, 2020
+## Day 50: April 12, 2020
 
 **Today's Progress:** Completed the chapter on Doing Calculations with PHP from the PHP Developer Track on [LinkedIn Learning](https://www.linkedin.com/learning). 
 
@@ -467,7 +467,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 50 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249417383128817666)
 
-### Day 51: April 13, 2020
+## Day 51: April 13, 2020
 
 **Today's Progress:** Completed chapter on Using Loops for Repetitive Actions (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)).
 
@@ -475,7 +475,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 51 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1249749252202475520)
 
-### Day 52: April 15, 2020
+## Day 52: April 15, 2020
 
 **Today's Progress:** Started the Functions & Objects chapter (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)). Covered built-in functions, specifically focused on the most common ones. Also reading Learning PHP, MySQL & JavaScript by Robin Nixon.
 
@@ -483,7 +483,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 
 **Link to work:** [Day 52 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1250549236363640833)
 
-### Day 53: April 19, 2020
+## Day 53: April 19, 2020
 
 **Today's Progress:** Completed the Functions & Objects chapter (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning)).
 
@@ -491,7 +491,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 53 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1251978357396443136)
 
-### Day 54: April 22, 2020
+## Day 54: April 22, 2020
 
 **Today's Progress:** Worked on the Including External Files chapter in the PHP Developer Track from [LinkedIn Learning](https://www.linkedin.com/learning).
 
@@ -499,7 +499,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 54 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1253093269032046594)
 
-### Day 55: April 26, 2020
+## Day 55: April 26, 2020
 
 **Today's Progress:** Completed the Handling Errors chapter in the PHP Developer Track [LinkedIn Learning](https://www.linkedin.com/learning).
 
@@ -507,7 +507,7 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 55 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1254505016481775616)
 
-### Day 56: May 3, 2020
+## Day 56: May 2, 2020
 
 **Today's Progress:** Spend the day working on the "Emailing the Contents of an Online Form" chapter. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
 
@@ -515,10 +515,18 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
  
 **Link to work:** [Day 56 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1256699667259285505)
 
-### Day 57: May 4, 2020
+## Day 57: May 3, 2020
 
 **Today's Progress:** Finished the "Developing with Multiple-Choice Form Fields" chapter. And with that, I've finally completed the Learning PHP course. Next course is PHP Essential Training. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
 
 **Thoughts:** This course was a terrific primer for all the other work I am going to be doing in this PHP Developer Track. It really gave me a great understanding of the core concepts that I need to know.
  
 **Link to work:** [Day 57 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1257056154439606272)
+
+## Day 58: May 5, 2020
+
+**Today's Progress:** Started on the PHP Essential Training course. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** I tried to finish the whole course today since I figured a lot of the material was a repetition from the previous course. But I kept coming across topics I did not remember clearly had to slow down the pace at which I was going through the material.
+ 
+**Link to work:** [Day 58 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1257805321403346946)
