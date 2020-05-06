@@ -530,3 +530,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** I tried to finish the whole course today since I figured a lot of the material was a repetition from the previous course. But I kept coming across topics I did not remember clearly had to slow down the pace at which I was going through the material.
  
 **Link to work:** [Day 58 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1257805321403346946)
+
+## Day 59: May 6, 2020
+
+**Today's Progress:** Still working on the PHP Essential Training course.  Today's lessons were focused on using logical expressions. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** At first glance, the material in this course seems like a repetition of the previous course I did (Learning PHP) but it actually expounds on a lot of the core concepts that are used in PHP programming. This really adds to the knowledge that I have acquired so far.
+ 
+**Link to work:** [Day 59 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1258153193751658496)
