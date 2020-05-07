@@ -538,3 +538,11 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** At first glance, the material in this course seems like a repetition of the previous course I did (Learning PHP) but it actually expounds on a lot of the core concepts that are used in PHP programming. This really adds to the knowledge that I have acquired so far.
  
 **Link to work:** [Day 59 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1258153193751658496)
+
+## Day 60: May 7, 2020
+
+**Today's Progress:** Completed the PHP Essential Training course. Next up is PHP with MySQL Essential Training. Hoping to brush up on accessing MySQL from the command line, because I usually opt for a GUI interface. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** The rate at which I worked through this course initially had me worried until I realized that it just means I have a better understanding of the concepts.
+ 
+**Link to work:** [Day 60 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1258491620829417473)
