@@ -546,3 +546,14 @@ Repository: [Common Algorithms](https://github.com/solomonkamanga/common-algorit
 **Thoughts:** The rate at which I worked through this course initially had me worried until I realized that it just means I have a better understanding of the concepts.
  
 **Link to work:** [Day 60 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1258491620829417473)
+
+## Day 61: May 12, 2020
+
+**Today's Progress:** Started on the PHP with MySQL Essential Training course & completed chapters on: 
+- Start a Database-Driven Project
+- Building Web Pages with PHP
+Also did a challenge on CodeSignal. Had to write a function to get the century from a given year. (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** Even though this course is primarily focused on building a simple CMS, I feel it will help guide me in understanding how to use PHP to implement practical solutions.
+ 
+**Link to work:** [Day 61 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1260347522087890952)
