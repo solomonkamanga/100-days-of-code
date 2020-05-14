@@ -557,3 +557,14 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Even though this course is primarily focused on building a simple CMS, I feel it will help guide me in understanding how to use PHP to implement practical solutions.
  
 **Link to work:** [Day 61 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1260347522087890952)
+
+## Day 62: May 14, 2020
+
+**Today's Progress:** Did more PHP with MySQL. Worked on:
+- Headers and Redirects
+- Building forms with PHP
+(PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** For the past few days of the challenge, I have started waking up early so that I could work on my coding/learning tasks for the day in the morning. This new process seems to be going well for now as I am way more refreshed in the mornings and more receptive to learning new concepts.
+ 
+**Link to work:** [Day 62 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1261039309030916098)
