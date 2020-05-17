@@ -568,3 +568,14 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** For the past few days of the challenge, I have started waking up early so that I could work on my coding/learning tasks for the day in the morning. This new process seems to be going well for now as I am way more refreshed in the mornings and more receptive to learning new concepts.
  
 **Link to work:** [Day 62 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1261039309030916098)
+
+## Day 63: May 17, 2020
+
+**Today's Progress:** Still working my way through PHP with MySQL Part 1 on @LI_learning. Completed the chapters in:
+- MySQL Basics
+- Using PHP to Access MySQL
+(PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** Today was the first time I had ever used the command line to access MySQL. It is very useful information and I can definitely see the use cases where this would be applicable.
+ 
+**Link to work:** [Day 63 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1262124071627763719)
