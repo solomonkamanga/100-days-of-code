@@ -571,7 +571,7 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 63: May 17, 2020
 
-**Today's Progress:** Still working my way through PHP with MySQL Part 1 on @LI_learning. Completed the chapters in:
+**Today's Progress:** Still working my way through PHP with MySQL Part 1 on [LinkedIn Learning](https://www.linkedin.com/learning). Completed the chapters in:
 - MySQL Basics
 - Using PHP to Access MySQL
 (PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
@@ -579,3 +579,15 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Today was the first time I had ever used the command line to access MySQL. It is very useful information and I can definitely see the use cases where this would be applicable.
  
 **Link to work:** [Day 63 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1262124071627763719)
+
+## Day 64: May 18, 2020
+
+**Today's Progress:** Finished the PHP with MySQL Part 1 course on [LinkedIn Learning](https://www.linkedin.com/learning) by working on the following chapters:
+- CRUD with PHP
+- Validate Data with PHP
+- Prevent SQL Injection
+(PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** Another course completed, just as before I can only truly gauge my understanding of the concepts when I start to use them to develop code.
+ 
+**Link to work:** [Day 64 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1262486830668296193)
