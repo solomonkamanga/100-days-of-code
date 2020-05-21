@@ -1,6 +1,5 @@
 # Round 1
 
-<!--TODO: Provide rationale for picking these particular goals -->
 | **Start Date**    | **End Date**     | **Goal**                                                                                       |
 | :---------------- | :--------------- | :--------------------------------------------------------------------------------------------- |
 | 5 September 2017  | 1 September 2018 | Improve understanding of fundamentals of web development                                       |

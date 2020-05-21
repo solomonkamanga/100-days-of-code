@@ -591,3 +591,12 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Another course completed, just as before I can only truly gauge my understanding of the concepts when I start to use them to develop code.
  
 **Link to work:** [Day 64 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1262486830668296193)
+
+## Day 65: May 21, 2020
+
+**Today's Progress:** Started the PHP with MySQL Part 2 course on [LinkedIn Learning](https://www.linkedin.com/learning) and covered a great deal of the course today. 
+(PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** I honestly did not feel like doing anything productive today but I managed to commit some time to a coding session. Publicly committing to the challenge really does help in making one accountable.
+ 
+**Link to work:** [Day 65 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1263581644193054723)
