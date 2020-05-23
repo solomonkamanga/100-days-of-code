@@ -600,3 +600,12 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** I honestly did not feel like doing anything productive today but I managed to commit some time to a coding session. Publicly committing to the challenge really does help in making one accountable.
  
 **Link to work:** [Day 65 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1263581644193054723)
+
+## Day 66: May 23, 2020
+
+**Today's Progress:** Finished the PHP with MySQL Part 2 course on [LinkedIn Learning](https://www.linkedin.com/learning). Also started doing research on how to develop a WordPress theme.
+(PHP Developer Track - [LinkedIn Learning](https://www.linkedin.com/learning))
+
+**Thoughts:** After spending so much time working on these courses and small coding problems, I now want to actually start developing a full application or website and I think that building a WordPress might be a good use of the skills I have obtained so far.
+ 
+**Link to work:** [Day 66 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1264305558900953093)
