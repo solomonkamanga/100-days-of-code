@@ -609,3 +609,13 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** After spending so much time working on these courses and small coding problems, I now want to actually start developing a full application or website and I think that building a WordPress might be a good use of the skills I have obtained so far.
  
 **Link to work:** [Day 66 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1264305558900953093)
+
+## Day 67: May 25, 2020
+
+**Today's Progress:** Took a "break" from the PHP Developer Track to work on developing a WordPress theme. This was supposed to take a couple of hours at most but now I am tinkering with:
+- Creating a simple portfolio website (HTML, CSS & JavaScript)
+- Turning this portfolio website into a WordPress Theme
+
+**Thoughts:** Even though this task is taking longer than I anticipated, it's not necessarily a bad thing since I am learning quite a lot in terms of working with WordPress.
+
+**Link to work:**[Day 67 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1265036978225123331)
