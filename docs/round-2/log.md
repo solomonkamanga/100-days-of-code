@@ -619,3 +619,13 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Even though this task is taking longer than I anticipated, it's not necessarily a bad thing since I am learning quite a lot in terms of working with WordPress.
 
 **Link to work:**[Day 67 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1265036978225123331)
+
+## Day 68: May 26, 2020
+
+**Today's Progress:** Still working on creating a portfolio website (using HTML, CSS & JavaScript). Today I managed to:
+- Set up Gulp so that I could automate my workflow
+- Create a basic structure for the website (by that I mean the index.html has at least a body tag in it)
+
+**Thoughts:** Really enjoyed learning about how to automate my development workflow when developing front end projects using [Gulp](https://gulpjs.com/).
+
+**Link to work:**[Day 68 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1265399878798192643)
