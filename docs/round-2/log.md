@@ -629,3 +629,13 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Really enjoyed learning about how to automate my development workflow when developing front end projects using [Gulp](https://gulpjs.com/).
 
 **Link to work:**[Day 68 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1265399878798192643)
+
+## Day 69: June 10, 2020
+
+**Today's Progress:** Back at it again! Almost finished working on portfolio website (using HTML, CSS & JavaScript). Just have to fix issues with:
+- Light / Dark mode
+- Responsive design
+
+**Thoughts:** Apart from abject laziness and disinterest in working on anything code related after work I have no good reasons why I have not been contributing anything to this challenge. However, I am glad that I am back and I can hopefully stick it until the very end.
+
+**Link to work:**[Day 69 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1270798192146362368)
