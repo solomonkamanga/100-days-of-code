@@ -647,3 +647,13 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Now that I am finally done with the website I can start on the real work of setting up a WordPress development environment and make a theme.
 
 **Link to work:**[Day 70 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1271194611478933512)
+
+## Day 71: June 12, 2020
+
+**Today's Progress:** Started working on converting the portfolio website into a WordPress theme by doing the following:
+- installing and configuring WordPress locally
+- dividing page into sections that can be used by WordPress
+
+**Thoughts:** Since I already use PHP for developing installing and configuring WordPress was a relatively simple process. However, understanding the structure of pages standard WordPress is quite challenging.
+
+**Link to work:**[Day 71 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1271495956614258688)
