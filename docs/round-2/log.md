@@ -657,3 +657,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Since I already use PHP for developing installing and configuring WordPress was a relatively simple process. However, understanding the structure of pages standard WordPress is quite challenging.
 
 **Link to work:**[Day 71 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1271495956614258688)
+
+## Day 72: June 21, 2020
+
+**Today's Progress:** Finished converting the portfolio website into a basic WordPress theme. Still want to continue adding more functionality as time goes BUT right now I have a theme.
+
+**Thoughts:** Finally putting finishing touches to the WordPress theme made me realize that there is a lot of functionality that needs to be added before it can be a full fledged that can be easily installed by an user.
+
+**Link to work:**[Day 72 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1274774741136613380)
