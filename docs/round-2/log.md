@@ -665,3 +665,14 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Finally putting finishing touches to the WordPress theme made me realize that there is a lot of functionality that needs to be added before it can be a full fledged that can be easily installed by an user.
 
 **Link to work:**[Day 72 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1274774741136613380)
+
+## Day 73: June 22, 2020
+
+**Today's Progress:** Started on Ajax with PHP ([LinkedIn Learning](https://www.linkedin.com/learning)) & completed chapters on: 
+- Ajax Defined
+- Ajax Client
+- PHP Server
+
+**Thoughts:** I am back to working on the PHP Developer Track so that can I continue preparing for PHP certification.
+
+**Link to work:**[Day 73 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275118856348942337)
