@@ -676,3 +676,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** I am back to working on the PHP Developer Track so that can I continue preparing for PHP certification.
 
 **Link to work:**[Day 73 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275118856348942337)
+
+## Day 74: June 23, 2020
+
+**Today's Progress:** Continued working through Ajax with PHP on [LinkedIn Learning](https://www.linkedin.com/learning)
+
+**Thoughts:** I could have started this course at a better time because a lot of the concepts that are being taught are ones I can actually use in my current job on a project that I have been working on.
+
+**Link to work:**[Day 74 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275531955287851010)
