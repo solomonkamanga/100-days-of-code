@@ -684,3 +684,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** I could have started this course at a better time because a lot of the concepts that are being taught are ones I can actually use in my current job on a project that I have been working on.
 
 **Link to work:**[Day 74 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275531955287851010)
+
+## Day 75: June 24, 2020
+
+**Today's Progress:** Still working on the Ajax with PHP course from [LinkedIn Learning](https://www.linkedin.com/learning). Focused on adding Ajax functionality to a button that allows a user to favorite and unfavorite blog posts.
+
+**Thoughts:** Even the process seems liked a fairly simple one the concepts talked in this section are ones that can be applied in other aspects of an PHP application such as adding event listeners to button and change the CSS class of an element so that the user can see that an item has been updated.
+
+**Link to work:**[Day 75 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275907736354652167)
