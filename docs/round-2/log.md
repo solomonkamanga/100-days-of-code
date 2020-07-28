@@ -692,3 +692,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Even the process seems liked a fairly simple one the concepts talked in this section are ones that can be applied in other aspects of an PHP application such as adding event listeners to button and change the CSS class of an element so that the user can see that an item has been updated.
 
 **Link to work:**[Day 75 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275907736354652167)
+
+## Day 76: July 29, 2020
+
+**Today's Progress:** Finished the Ajax with PHP course from [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Almost a month after the last time that I worked on the challenge but I am back on the grind again.
+
+**Link to work:**[Day 76 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1288247684177035264)
