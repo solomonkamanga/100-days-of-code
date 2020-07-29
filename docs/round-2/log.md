@@ -693,10 +693,18 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 **Link to work:**[Day 75 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1275907736354652167)
 
-## Day 76: July 29, 2020
+## Day 76: July 28, 2020
 
 **Today's Progress:** Finished the Ajax with PHP course from [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** Almost a month after the last time that I worked on the challenge but I am back on the grind again.
 
 **Link to work:**[Day 76 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1288247684177035264)
+
+## Day 77: July 29, 2020
+
+**Today's Progress:** Started on PHP Object-Oriented Programming [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** This was just a basic introduction to the topic comprising of information I already know about object-oriented programming.
+
+**Link to work:**[Day 77 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1288582962003546112)
