@@ -708,3 +708,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** This was just a basic introduction to the topic comprising of information I already know about object-oriented programming.
 
 **Link to work:**[Day 77 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1288582962003546112)
+
+## Day 78: August 10, 2020
+
+**Today's Progress:** Still working on PHP Object-Oriented Programming. I'm about half way through the course. [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Back from the land of procrastination to continue the journey. Even though it's obviously taking longer than anticipated I still have to finish.
+
+**Link to work:**[Day 78 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1292903490679975936)
