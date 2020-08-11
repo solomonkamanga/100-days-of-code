@@ -716,3 +716,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Back from the land of procrastination to continue the journey. Even though it's obviously taking longer than anticipated I still have to finish.
 
 **Link to work:**[Day 78 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1292903490679975936)
+
+## Day 79: August 11, 2020
+
+**Today's Progress:** Continued with PHP Object-Oriented Programming. Focused on object access control. [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** This course is a greater refresher for the concepts of object oriented programming.
+
+**Link to work:**[Day 79 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1292903490679975936)
