@@ -723,4 +723,12 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 **Thoughts:** This course is a greater refresher for the concepts of object oriented programming.
 
-**Link to work:**[Day 79 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1292903490679975936)
+**Link to work:**[Day 79 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1292903490679975936) 
+
+## Day 80: August 12, 2020
+
+**Today's Progress:** Worked on static properties and methods & magic methods. Completed the PHP Object-Oriented Programming course. [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Now that I have completed the course it has really cleared up a lot of misconceptions I had about how object oriented programming works in PHP.
+
+**Link to work:**[Day 80 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1293647074601373696)
