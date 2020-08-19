@@ -732,3 +732,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Now that I have completed the course it has really cleared up a lot of misconceptions I had about how object oriented programming works in PHP.
 
 **Link to work:**[Day 80 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1293647074601373696)
+
+## Day 81: August 19, 2020
+
+**Today's Progress:** Started on PHP Object-Oriented Programming with Databases. Focused on OOP database connections and database-driven classes. [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Every time I am absent from the challenge for a couple days I don't feel as guilty when I get back to it anymore because I NEED time to recharge if I am to do this challenge properly.
+
+**Link to work:**[Day 81 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1296186032002564096)
