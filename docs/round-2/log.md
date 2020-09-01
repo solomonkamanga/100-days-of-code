@@ -737,6 +737,14 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 **Today's Progress:** Started on PHP Object-Oriented Programming with Databases. Focused on OOP database connections and database-driven classes. [LinkedIn Learning](https://www.linkedin.com/learning).
 
-**Thoughts:** Every time I am absent from the challenge for a couple days I don't feel as guilty when I get back to it anymore because I NEED time to recharge if I am to do this challenge properly.
+**Thoughts:** Every time I am absent from the challenge for a couple days I don't feel as guilty when I get back to it any more because I NEED time to recharge if I am to do this challenge properly.
 
 **Link to work:**[Day 81 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1296186032002564096)
+
+## Day 82: September 1, 2020
+
+**Today's Progress:** Continued working on PHP Object-Oriented Programming with Databases. [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Had a very tough experience dealing with PHP 7 return type declarations that convinced me more than ever that I need to get back to the "simple things in life" and continue working towards finishing this challenge.
+
+**Link to work:**[Day 82 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1300901726615150592) 
