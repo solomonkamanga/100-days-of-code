@@ -711,7 +711,7 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 78: August 10, 2020
 
-**Today's Progress:** Still working on PHP Object-Oriented Programming. I'm about half way through the course. [LinkedIn Learning](https://www.linkedin.com/learning).
+**Today's Progress:** Still working on PHP Object-Oriented Programming. I'm about half way through the course [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** Back from the land of procrastination to continue the journey. Even though it's obviously taking longer than anticipated I still have to finish.
 
@@ -719,7 +719,7 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 79: August 11, 2020
 
-**Today's Progress:** Continued with PHP Object-Oriented Programming. Focused on object access control. [LinkedIn Learning](https://www.linkedin.com/learning).
+**Today's Progress:** Continued with PHP Object-Oriented Programming. Focused on object access control [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** This course is a greater refresher for the concepts of object oriented programming.
 
@@ -727,7 +727,7 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 80: August 12, 2020
 
-**Today's Progress:** Worked on static properties and methods & magic methods. Completed the PHP Object-Oriented Programming course. [LinkedIn Learning](https://www.linkedin.com/learning).
+**Today's Progress:** Worked on static properties and methods & magic methods. Completed the PHP Object-Oriented Programming course [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** Now that I have completed the course it has really cleared up a lot of misconceptions I had about how object oriented programming works in PHP.
 
@@ -735,7 +735,7 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 81: August 19, 2020
 
-**Today's Progress:** Started on PHP Object-Oriented Programming with Databases. Focused on OOP database connections and database-driven classes. [LinkedIn Learning](https://www.linkedin.com/learning).
+**Today's Progress:** Started on PHP Object-Oriented Programming with Databases. Focused on OOP database connections and database-driven classes [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** Every time I am absent from the challenge for a couple days I don't feel as guilty when I get back to it any more because I NEED time to recharge if I am to do this challenge properly.
 
@@ -743,8 +743,16 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 82: September 1, 2020
 
-**Today's Progress:** Continued working on PHP Object-Oriented Programming with Databases. [LinkedIn Learning](https://www.linkedin.com/learning).
+**Today's Progress:** Continued working on PHP Object-Oriented Programming with Databases [LinkedIn Learning](https://www.linkedin.com/learning).
 
 **Thoughts:** Had a very tough experience dealing with PHP 7 return type declarations that convinced me more than ever that I need to get back to the "simple things in life" and continue working towards finishing this challenge.
 
-**Link to work:**[Day 82 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1300901726615150592) 
+**Link to work:**[Day 82 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1300901726615150592)
+
+## Day 83: September 2, 2020
+
+**Today's Progress:** Completed PHP Object-Oriented Programming with Databases on [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** Since I already have some understanding of OOP and using the active record design pattern, this particular was relatively easier to understand and complete.
+
+**Link to work:**[Day 83 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1301259056057905159) 
