@@ -755,4 +755,12 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 **Thoughts:** Since I already have some understanding of OOP and using the active record design pattern, this particular was relatively easier to understand and complete.
 
-**Link to work:**[Day 83 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1301259056057905159) 
+**Link to work:**[Day 83 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1301259056057905159)
+
+## Day 84: September 3, 2020
+
+**Today's Progress:** Started MVC Frameworks for Building PHP Web Applications on [LinkedIn Learning](https://www.linkedin.com/learning).
+
+**Thoughts:** This course does not seem geared towards learning programming but understanding the different options available when choosing a framework to implement a PHP application.
+
+**Link to work:**[Day 84 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1301613699720007688)
