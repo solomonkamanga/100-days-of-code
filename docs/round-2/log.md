@@ -767,8 +767,16 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 85: September 7, 2020
 
-**Today's Progress:** Continued working on MVC Frameworks for Building PHP Web Applications on [LinkedIn Learning](https://www.linkedin.com/learning). Learnt about Zend, Symfony and CodeIgniter. .
+**Today's Progress:** Continued working on MVC Frameworks for Building PHP Web Applications on [LinkedIn Learning](https://www.linkedin.com/learning). Learnt about Zend, Symfony and CodeIgniter.
 
 **Thoughts:** Even though the course gives a very generalized overview of each framework it gives me a chance to find answers to questions I have always had about each of them. It also gives me information that I may help me pick a suitable platform for developing any web applications in future.
 
 **Link to work:**[Day 85 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1303062158071271424)
+
+## Day 86: September 8, 2020
+
+**Today's Progress:** Completed MVC Frameworks for Building PHP Web Applications on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Choosing the right framework can ultimately determine the success of a project so it makes sense to have the right information before making a choice.
+
+**Link to work:**[Day 86 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1303357791583772673)
