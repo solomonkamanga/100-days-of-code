@@ -780,3 +780,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Choosing the right framework can ultimately determine the success of a project so it makes sense to have the right information before making a choice.
 
 **Link to work:**[Day 86 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1303357791583772673)
+
+## Day 87: September 22, 2020
+
+**Today's Progress:** Started working Learning Git and GitHub course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Although I already use git as part of my daily development environment it's always great to get a refresher course.
+
+**Link to work:**[Day 87 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1308511707413860354)
