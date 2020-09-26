@@ -783,8 +783,16 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 
 ## Day 87: September 22, 2020
 
-**Today's Progress:** Started working Learning Git and GitHub course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+**Today's Progress:** Started working on the Learning Git and GitHub course on [LinkedIn Learning](https://www.linkedin.com/learning). 
 
 **Thoughts:** Although I already use git as part of my daily development environment it's always great to get a refresher course.
 
 **Link to work:**[Day 87 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1308511707413860354)
+
+## Day 88: September 26, 2020
+
+**Today's Progress:** Completed the Learning Git and GitHub course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Even though I regularly use Git in my work there were several features/concepts that were covered in this course I was not aware of. These are concepts I will probably try out on future projects.
+
+**Link to work:**[Day 88 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1309933731965276161)
