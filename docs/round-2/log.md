@@ -796,3 +796,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Even though I regularly use Git in my work there were several features/concepts that were covered in this course I was not aware of. These are concepts I will probably try out on future projects.
 
 **Link to work:**[Day 88 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1309933731965276161)
+
+## Day 89: September 27, 2020
+
+**Today's Progress:** Started the Test-Driven Development with PHPUnit course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Being able to adequately test my code during development is something that I have always struggled with, so I am glad this topic is part of the learning track.
+
+**Link to work:**[Day 89 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1310285520895913985)
