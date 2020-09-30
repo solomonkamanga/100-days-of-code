@@ -804,3 +804,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Being able to adequately test my code during development is something that I have always struggled with, so I am glad this topic is part of the learning track.
 
 **Link to work:**[Day 89 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1310285520895913985)
+
+## Day 90: September 30, 2020
+
+**Today's Progress:** Continued working on the Test-Driven Development with PHPUnit course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Due to the nature in which the course is being taught I am already thinking of ways I can implement TDD in my development environment for work.
+
+**Link to work:**[Day 90 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1311381706897842176)
