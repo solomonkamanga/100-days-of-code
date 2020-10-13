@@ -812,3 +812,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Due to the nature in which the course is being taught I am already thinking of ways I can implement TDD in my development environment for work.
 
 **Link to work:**[Day 90 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1311381706897842176)
+
+## Day 91: October 13, 2020
+
+**Today's Progress:** Completed the Test-Driven Development with PHPUnit course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:**After completing the course, I do not think I am quite ready to dive into using TDD in my everyday coding environment. However, at least now I know the basics so that I can figure out how start using it effectively.
+
+**Link to work:**[Day 91 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1316097479516073986)
