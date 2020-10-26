@@ -820,3 +820,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:**After completing the course, I do not think I am quite ready to dive into using TDD in my everyday coding environment. However, at least now I know the basics so that I can figure out how start using it effectively.
 
 **Link to work:**[Day 91 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1316097479516073986)
+
+## Day 92: October 26, 2020
+
+**Today's Progress:** Started the PHP: Creating Secure Websites course on [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** A great understanding of security principles is an important factor in one's growth as a developer since the threats that you need to be aware of and protect against are constantly evolving.
+
+**Link to work:**[Day 92 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1320763031765266441)
