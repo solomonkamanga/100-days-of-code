@@ -828,3 +828,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** A great understanding of security principles is an important factor in one's growth as a developer since the threats that you need to be aware of and protect against are constantly evolving.
 
 **Link to work:**[Day 92 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1320763031765266441)
+
+## Day 93: October 27, 2020
+
+**Today's Progress:** Continued with the PHP: Creating Secure Websites course. Completed the chapter focused on securing a PHP installation [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Learning how to mostly set up the php.ini configurations to ensure that my production environment is as secure as my development environment.
+
+**Link to work:**[Day 93 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321208768487706625)
