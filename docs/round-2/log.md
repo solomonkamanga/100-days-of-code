@@ -836,3 +836,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Learning how to mostly set up the php.ini configurations to ensure that my production environment is as secure as my development environment.
 
 **Link to work:**[Day 93 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321208768487706625)
+
+## Day 94: October 28, 2020
+
+**Today's Progress:** Completed the chapter on Filtering Input and Controlling Output from the PHP: Creating Secure Websites course [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Even though the PHP framework that I use for development at work simplifies the validation and sanitization of data this chapter helped me better understand how this actually works.
+
+**Link to work:**[Day 94 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321558911082733568)
