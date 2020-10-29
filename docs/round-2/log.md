@@ -844,3 +844,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Even though the PHP framework that I use for development at work simplifies the validation and sanitization of data this chapter helped me better understand how this actually works.
 
 **Link to work:**[Day 94 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321558911082733568)
+
+## Day 95: October 29, 2020
+
+**Today's Progress:** Covered the first half of the chapter on defending against the most common attacks from the PHP: Creating Secure Websites course. [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** It is actually quite nerve wrecking how easy it is for a hacker to manipulate your website in order to gain access to the sensitive data. However, it is also relatively just as easy to implement safeguards against such malicious intentions.
+
+**Link to work:**[Day 95 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321890410688557059)
