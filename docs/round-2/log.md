@@ -852,3 +852,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** It is actually quite nerve wrecking how easy it is for a hacker to manipulate your website in order to gain access to the sensitive data. However, it is also relatively just as easy to implement safeguards against such malicious intentions.
 
 **Link to work:**[Day 95 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1321890410688557059)
+
+## Day 96: October 30, 2020
+
+**Today's Progress:** Finished the chapter on defending against the most common attacks from the PHP: Creating Secure Websites course. [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** This particular chapter really improved my understanding of the attacks that are usually launched against PHP websites. It also provided me with more in depth knowledge about general web security principles and solutions used to prevent or defend against these attacks.
+
+**Link to work:**[Day 96 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1322190105621254145)
