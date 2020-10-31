@@ -860,3 +860,11 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** This particular chapter really improved my understanding of the attacks that are usually launched against PHP websites. It also provided me with more in depth knowledge about general web security principles and solutions used to prevent or defend against these attacks.
 
 **Link to work:**[Day 96 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1322190105621254145)
+
+## Day 97: October 31, 2020
+
+**Today's Progress:** Completed the PHP: Creating Secure Websites course. Now I have to find other things to do for my last 3 days of the challenge. [LinkedIn Learning](https://www.linkedin.com/learning). 
+
+**Thoughts:** Today I completed all of the courses in the PHP Developer Track, which means I will have to find other tasks to do in the last few days of this challenge.
+
+**Link to work:**[Day 97 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1322604934353850368)
