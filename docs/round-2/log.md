@@ -868,3 +868,12 @@ Also did a challenge on CodeSignal. Had to write a function to get the century f
 **Thoughts:** Today I completed all of the courses in the PHP Developer Track, which means I will have to find other tasks to do in the last few days of this challenge.
 
 **Link to work:**[Day 97 - PHP Developer Track](https://twitter.com/Changamire_Musa/status/1322604934353850368)
+
+
+## Day 98 - Day 100: November 2, 2020 - November 4, 2020
+
+**Today's Progress:** Spent the final three days of this round of #100DaysOfCode completing challenges on [CodeSignal](https://www.codesignal.com). 
+
+**Thoughts:** I could not figure out what else I could do in the remaining days of the challenge so I just thought practising my skills would be a great task to complete the challenge. It gave me a chance to assess my ability to apply the new knowledge and skills I have gained throughout this challenge. Even though it definitely took longer than expected I am happy that I persevered and completed the challenge. Don't think I'm ready to tackle the Zend PHP certification yet. I need a little more preparation.
+
+**Link to work:**[Day 98 - Day 100 - CodeSignal](https://twitter.com/Changamire_Musa/status/1324102214852497411)
